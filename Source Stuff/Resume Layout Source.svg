@@ -3,5 +3,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
-<text transform="matrix(1 0 0 1 126.4619 394.5127)" font-family="'MyriadPro-Regular'" font-size="60">Hello World</text>
+<rect x="23.5" y="31.5" fill="#D32020" width="108" height="108"/>
+<text transform="matrix(1 0 0 1 139.7021 61.019)" font-family="'NewsCycle'" font-size="30">Andrew Watson</text>
+<text transform="matrix(1 0 0 1 139.7021 85.5)" font-family="'SourceSansPro-ExtraLight'" font-size="18">creativedrewy@gmail.com</text>
+<text transform="matrix(1 0 0 1 139.7021 116.7788)" font-family="'SourceSansPro-ExtraLight'" font-size="18">952-250-7380</text>
+<text transform="matrix(1 0 0 1 367.9424 61.0195)" font-family="'NewsCycle'" font-size="36">{creative:drewy}</text>
+<text transform="matrix(1 0 0 1 367.9424 90.5)" font-family="'SourceSansPro-ExtraLight'" font-size="14">http://creativedrewy.com/</text>
+<text transform="matrix(1 0 0 1 367.9424 106.7788)" font-family="'SourceSansPro-ExtraLight'" font-size="14">https://github.com/creativedrewy</text>
+<text transform="matrix(1 0 0 1 367.9424 124.5)" font-family="'SourceSansPro-ExtraLight'" font-size="14">http://twitter.com/creativedrewy</text>
+<text transform="matrix(1 0 0 1 367.9424 144.5)" font-family="'SourceSansPro-ExtraLight'" font-size="14">https://www.linkedin.com/in/creativedrewy</text>
+<text transform="matrix(1 0 0 1 340.5 62.019)" font-family="'SourceSansPro-ExtraLight'" font-size="30">is</text>
 </svg>
