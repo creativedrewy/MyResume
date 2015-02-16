@@ -1,18 +1,18 @@
-# Overview Info:
+# Contact Information:
 
 - Andrew Watson
 - {creative:drewy}
 - creativedrewy@gmail.com
 - 952-250-7380
 
-# Top of Resume Websites:
+# Websites:
 
 - http://creativedrewy.com/
 - https://github.com/creativedrewy
 - http://twitter.com/creativedrewy
 - https://www.linkedin.com/in/creativedrewy
 
-# What you need to know:
+# What You Need to Know:
 
 - Current role: Principal Android Developer at The Nerdery.
 - I've been working with the Android platform since 2010. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
@@ -22,10 +22,15 @@
 
 # Highlights:
 
-- My Android Wear app - WeaRSS - is featured as a "Hand-Picked for Wear" app in Google Play. Other good internet coverage as well: http://creativedrewy.com/highlight/1
-- Apps on Play Store for which I was lead developer: http://creativedrewy.com/highlight/3, http://creativedrewy.com/highlight/2
-- Some videos of a pilot YouTube show I hosted for The Nerdery: http://creativedrewy.com/highlight/4
-- I did the layout for a widget that was featured on every new Virgin mobile phone for a time. It looked pretty much like this: http://creativedrewy.com/highlight/5
+- My Android Wear app - WeaRSS - is featured as a "Hand-Picked for Wear" app in Google Play. Other good internet coverage as well:
+http://creativedrewy.com/highlight/1
+- Apps on Play Store for which I was lead developer:
+http://creativedrewy.com/highlight/3<br/>
+http://creativedrewy.com/highlight/2
+- Some videos of a pilot YouTube show I hosted for The Nerdery:
+http://creativedrewy.com/highlight/4
+- I did the layout for a widget that was featured on every new Virgin mobile phone for a time. It looked pretty much like this:
+http://creativedrewy.com/highlight/5
 - Google "creative drewy" - yep, it's all me.
 
 # Development Experience Timeline:
