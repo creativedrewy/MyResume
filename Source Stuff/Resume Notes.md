@@ -14,7 +14,6 @@
 
 # What You Need to Know:
 
-- Current role: Principal Android Developer at The Nerdery.
 - I've been working with the Android platform since 2010. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
 - I've been a lead developer for years. I've successfully led countless projects involving multiple and varied programming languages, frameworks, and platforms. My development teams are usually 1 to 8 developers.
 - I'm super passionate about excellent application architecture, maintainability, and code quality. I do it for my own sanity; I have the most fun when I'm working in a quality code base.
@@ -22,23 +21,30 @@
 
 # Highlights:
 
-- My Android Wear app - WeaRSS - is featured as a "Hand-Picked for Wear" app in Google Play. Other good internet coverage as well:
+- My Android Wear app - WeaRSS - was featured as a "Hand-Picked for Wear" app in Google Play. Other good internet coverage as well:
 http://creativedrewy.com/highlight/1
 - Apps on Play Store for which I was lead developer:
-http://creativedrewy.com/highlight/3<br/>
-http://creativedrewy.com/highlight/2
+http://creativedrewy.com/highlight/2<br/>
+http://creativedrewy.com/highlight/3
 - Some videos of a pilot YouTube show I hosted for The Nerdery:
 http://creativedrewy.com/highlight/4
 - I did the layout for a widget that was featured on every new Virgin mobile phone for a time. It looked pretty much like this:
 http://creativedrewy.com/highlight/5
-- Google "creative drewy" - yep, it's all me.
 
 # Development Experience Timeline:
 
+### 2016
+- Successful startup exit as Vemory aquired by GoPro
+- Contribute to GoPro Android projects
+
+### 2015
+- Hired by Vemory, an Austin startup, to build advanced Android video editor
+- Create Android video compositor playback system
+
 ### 2014
 - WeaRSS Android Wear app released
-- Xamarin/MVVMCross development
-- AngularJS project development
+- Xamarin/MVVM development
+- AngularJS development
 - Mentor fellow Android developers
 
 ### 2012
@@ -65,37 +71,33 @@ http://creativedrewy.com/highlight/5
 
 # Programming Languages:
 
-- Java - 5
-- C# - 5
-- Javascript - 5
-- Actionscript 3 - 5
-- Coffeescript - 3
-- Kotlin - 2
+- Java - 5/5
+- C# - 5/5
+- Javascript - 5/5
+- Typescript - 4/5
+- Kotlin - 3.5/5
+- Swift - 2/5
 
 # Real-World Framework/Platform Development:
 
 - Android
-- Xamarin Android/iOS
-- MVVMCross
+- OpenGl/Shader integration
 - .NET
 - ASP MVC
-- WPF
+- Xamarin Android/iOS
 - AngularJS
-- jQuery
 - Node.js
-- Zappajs/Express
-- Expression Engine
+- Expressjs
 - Wordpress
 
-# Notable End-Client Development:
+# Notable Work:
 
+- GoPro
 - YouTube
 - Microsoft
 - HTC
 - Nike
 - HBO
 - Cisco
-- Medtronic
 - Trunk Club
 - Virgin Mobile
-- Venom Energy
