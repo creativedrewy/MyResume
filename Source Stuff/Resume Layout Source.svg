@@ -38,8 +38,8 @@
    id="namedview571"
    showgrid="false"
    inkscape:zoom="1.4142136"
-   inkscape:cx="326.47656"
-   inkscape:cy="601.85194"
+   inkscape:cx="314.10219"
+   inkscape:cy="156.1931"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -58,12 +58,29 @@
      orientation="0,1"
      id="guide298"
      inkscape:locked="false" /></sodipodi:namedview>
-<text
+
+<defs
+   id="defs10">
+  <style
+   type="text/css"
+   id="style8">
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+  </style>
+</defs>
+
+<rect
+   style="fill:#ffffff;stroke-width:1.75964057"
+   id="rect299"
+   width="605.99048"
+   height="789.83832"
+   x="1.4142135"
+   y="1.4546397" /><text
    transform="matrix(1 0 0 1 154.6416 61.5566)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="38"
    id="text2">Andrew Watson</text>
+
 
 
 
@@ -76,12 +93,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 182.6416 141.166)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
    id="text6"
    style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">952-250-7380</text>
+
 
 
 
@@ -94,12 +113,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 434.1895 45.6582)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
    id="text10"
    style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">creativedrewy.com</text>
+
 
 
 
@@ -112,12 +133,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 434.1895 109.749)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
    id="text14"
    style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">twitter.com/creativedrewy</text>
+
 
 
 
@@ -130,12 +153,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 45.2002 622.834)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
    id="text18"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2002</text>
+
 
 
 
@@ -148,12 +173,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 158.2002 625.834)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
    id="text22"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2006</text>
+
 
 
 
@@ -166,6 +193,7 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 269.6006 625.3311)"
    font-family="'SourceSansPro-Semibold'"
@@ -175,12 +203,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 342.9355 717.3896)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
    id="text28"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2014</text>
+
 
 
 
@@ -194,6 +224,7 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 35.6924 501.8184)"
    fill="#231F20"
@@ -201,6 +232,7 @@
    font-size="11"
    id="text32"
    style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Videos from developer-oriented pilot YouTube show I hosted for The Nerdery:</text>
+
 
 
 
@@ -252,12 +284,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 17.6924 380.666)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="22"
    id="text52">HIghlights</text>
+
 
 
 
@@ -270,12 +304,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 414 188)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="20"
    id="text56">Programming languages:</text>
+
 
 
 
@@ -302,6 +338,7 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 35.6924 513.8584)"
    fill="#156B6B"
@@ -310,6 +347,7 @@
    text-decoration=" underline"
    id="text64"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/4</text>
+
 
 
 
@@ -441,12 +479,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 414 229.5)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    id="text104"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">C#</text>
+
 
 
 
@@ -459,12 +499,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 413.874 265)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    id="text108"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Typescript</text>
+
 
 
 
@@ -477,12 +519,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 413.874 302)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    id="text112"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Swift</text>
+
 
 
 
@@ -739,6 +783,7 @@
 
 
 
+
 <rect
    x="35.67"
    y="235.667"
@@ -771,6 +816,7 @@
      font-size="11"
      id="tspan178"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">platforms. My development teams are usually 1 to 8 developers.</tspan></text>
+
 
 
 
@@ -809,6 +855,7 @@
 
 
 
+
 <rect
    x="36.333"
    y="329.667"
@@ -834,6 +881,7 @@
      font-size="11"
      id="tspan196"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">frameworks. If it's cool, I probably want to work with it.</tspan></text>
+
 
 
 
@@ -865,6 +913,7 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 35.3369 430.1924)"
    fill="#156B6B"
@@ -873,6 +922,7 @@
    text-decoration=" underline"
    id="text208"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/1</text>
+
 
 
 
@@ -905,12 +955,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 24.5 244)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text216">+</text>
+
 
 
 
@@ -923,12 +975,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 24.5 338)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text220">+</text>
+
 
 
 
@@ -941,12 +995,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 24.5 452)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text224">+</text>
+
 
 
 
@@ -959,12 +1015,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 24.5 536)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text228">+</text>
+
 
 
 
@@ -1029,6 +1087,7 @@
 
 
 
+
 	<rect
    x="504.584"
    y="344.344"
@@ -1078,12 +1137,14 @@
 
 
 
+
 	<text
    transform="matrix(1 0 0 1 413.874 335.0005)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="20"
    id="text260">Framework/platform dev:</text>
+
 
 
 
@@ -1142,6 +1203,7 @@
 
 
 
+
 	<rect
    x="504.542"
    y="460.159"
@@ -1184,12 +1246,14 @@
 
 
 
+
 	<text
    transform="matrix(1 0 0 1 414 449.8643)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="20"
    id="text290">notable Work:</text>
+
 
 
 
@@ -1229,6 +1293,7 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 440.9053 596.4766)"
    font-family="'SourceSansPro-Regular'"
@@ -1238,12 +1303,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 440.9053 580.4502)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
    id="text304"
    style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Kroll Ontrack</text>
+
 
 
 
@@ -1289,6 +1356,7 @@
 
 
 
+
 <line
    fill="none"
    stroke="#555555"
@@ -1322,6 +1390,7 @@
      font-size="10"
      id="tspan324"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Software Test Engineer</tspan></text>
+
 
 
 
@@ -1391,6 +1460,7 @@
 
 
 
+
 <g
    id="g356">
 	<g
@@ -1448,6 +1518,7 @@
      font-size="10"
      id="tspan366"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">interactive development</tspan></text>
+
 
 
 
@@ -1526,6 +1597,7 @@
 
 
 
+
 <g
    id="g400">
 	<g
@@ -1586,6 +1658,7 @@
 
 
 
+
 <g
    id="g420">
 	<g
@@ -1631,12 +1704,14 @@
 
 
 
+
 <text
    transform="matrix(1 0 0 1 440.9053 564.335)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
    id="text432"
    style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Education</text>
+
 
 
 
@@ -1756,6 +1831,7 @@
 
 
 
+
 <g
    id="g482">
 	<rect
@@ -1783,6 +1859,7 @@
 
 
 
+
 <g
    id="g492">
 	<rect
@@ -1807,6 +1884,7 @@
    font-size="11"
    id="text494"
    style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">GoPro</text>
+
 
 
 
@@ -1859,6 +1937,7 @@
 
 
 
+
 <line
    fill="none"
    stroke="#333333"
@@ -1870,31 +1949,28 @@
    y2="693"
    id="line512" />
 <line
-   fill="none"
-   stroke="#555555"
-   stroke-width="0.5"
    stroke-miterlimit="10"
-   x1="481.5"
+   x1="483.5"
    y1="706.771"
-   x2="481.5"
+   x2="483.5"
    y2="769.466"
-   id="line514" />
+   id="line514"
+   style="fill:none;stroke:#555555;stroke-width:0.5;stroke-miterlimit:10" />
 <line
-   fill="none"
-   stroke="#555555"
-   stroke-width="0.5"
    stroke-miterlimit="10"
-   x1="481.5"
+   x1="483.5"
    y1="706.771"
-   x2="434.189"
+   x2="436.189"
    y2="693"
-   id="line516" />
+   id="line516"
+   style="fill:none;stroke:#555555;stroke-width:0.5;stroke-miterlimit:10" />
 <text
-   transform="matrix(1 0 0 1 484 717.3896)"
-   font-family="'SourceSansPro-Semibold'"
    font-size="11"
    id="text518"
-   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2016</text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   x="486"
+   y="717.38959">2016</text>
+
 
 
 
@@ -1917,21 +1993,22 @@
 	</g>
 </g>
 <g
-   id="g534">
+   id="g534"
+   transform="translate(2)">
 	<rect
    x="509.211"
-   y="707.775"
-   fill="none"
-   stroke="#555555"
+   y="707.77502"
    stroke-miterlimit="10"
    width="11.52"
    height="11.52"
-   id="rect528" />
+   id="rect528"
+   style="fill:none;stroke:#555555;stroke-miterlimit:10" />
 	<g
    id="g532">
 		<path
-   d="M515.498,710.229c0.891,0,1.556,0.401,1.976,0.831l-0.791,0.89c-0.313-0.293-0.616-0.479-1.164-0.479    c-0.988,0-1.683,0.772-1.683,2.054c0,1.311,0.598,2.073,1.79,2.073c0.264,0,0.527-0.067,0.685-0.195v-1.096h-1.056v-1.173h2.327    v2.934c-0.45,0.431-1.242,0.772-2.132,0.772c-1.722,0-3.091-1.124-3.091-3.267C512.359,711.462,513.768,710.229,515.498,710.229z"
-   id="path530" />
+   d="m 515.498,710.229 c 0.891,0 1.556,0.401 1.976,0.831 l -0.791,0.89 c -0.313,-0.293 -0.616,-0.479 -1.164,-0.479 -0.988,0 -1.683,0.772 -1.683,2.054 0,1.311 0.598,2.073 1.79,2.073 0.264,0 0.527,-0.067 0.685,-0.195 v -1.096 h -1.056 v -1.173 h 2.327 v 2.934 c -0.45,0.431 -1.242,0.772 -2.132,0.772 -1.722,0 -3.091,-1.124 -3.091,-3.267 0,-2.111 1.409,-3.344 3.139,-3.344 z"
+   id="path530"
+   inkscape:connector-curvature="0" />
 	</g>
 </g>
 <rect
@@ -1972,6 +2049,7 @@
 
 
 
+
 <rect
    x="485"
    y="723.061"
@@ -1980,33 +2058,31 @@
    height="44.867"
    id="rect548" />
 <text
-   transform="matrix(1 0 0 1 485 730.2803)"
    id="text558"
-   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
-     x="0"
-     y="0"
-     font-family="'SourceSansPro-ExtraLight'"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   x="487"
+   y="730.28027"><tspan
+     x="487"
+     y="730.28027"
      font-size="10"
      id="tspan550"
-     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Successful startup exit w/ </tspan><tspan
-     x="0"
-     y="11"
-     font-family="'SourceSansPro-ExtraLight'"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">+ Successful startup exit w/ </tspan><tspan
+     x="487"
+     y="741.28027"
      font-size="10"
      id="tspan552"
-     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Vemory acquired by GoPro</tspan><tspan
-     x="0"
-     y="22"
-     font-family="'SourceSansPro-ExtraLight'"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Vemory acquired by GoPro</tspan><tspan
+     x="487"
+     y="752.28027"
      font-size="10"
      id="tspan554"
-     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Contribute to GoPro </tspan><tspan
-     x="0"
-     y="33"
-     font-family="'SourceSansPro-ExtraLight'"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">+ Contribute to GoPro </tspan><tspan
+     x="487"
+     y="763.28027"
      font-size="10"
      id="tspan556"
-     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Android projects</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Android projects</tspan></text>
+
 
 
 
@@ -2018,6 +2094,7 @@
    text-decoration=" underline"
    id="text560"
    style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/5</text>
+
 
 
 
@@ -2044,6 +2121,7 @@
      id="tspan566"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      font-family="'SourceSansPro-Light'">box art for a time. It looked pretty much like this:</tspan></text>
+
 
 
 
