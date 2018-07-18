@@ -37,19 +37,35 @@
    inkscape:window-height="762"
    id="namedview571"
    showgrid="false"
-   inkscape:zoom="1.6856283"
-   inkscape:cx="267.74869"
-   inkscape:cy="633.30024"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="326.47656"
+   inkscape:cy="601.85194"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   showguides="true"
+   inkscape:guide-bbox="true"><sodipodi:guide
+     position="18.384776,299.10616"
+     orientation="1,0"
+     id="guide294"
+     inkscape:locked="false" /><sodipodi:guide
+     position="412.24324,240.4163"
+     orientation="1,0"
+     id="guide296"
+     inkscape:locked="false" /><sodipodi:guide
+     position="181.72644,766.50373"
+     orientation="0,1"
+     id="guide298"
+     inkscape:locked="false" /></sodipodi:namedview>
 <text
    transform="matrix(1 0 0 1 154.6416 61.5566)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="38"
    id="text2">Andrew Watson</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 182.6416 110.416)"
@@ -58,12 +74,16 @@
    id="text4"
    style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">creativedrewy@gmail.com</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 182.6416 141.166)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
    id="text6"
    style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">952-250-7380</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 154.6416 87)"
@@ -72,79 +92,117 @@
    id="text8"
    style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:18px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Senior Android Developer</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 434.1895 45.6582)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
-   id="text10">creativedrewy.com</text>
+   id="text10"
+   style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">creativedrewy.com</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 434.1895 77.9707)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
-   id="text12">github.com/creativedrewy</text>
+   id="text12"
+   style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">github.com/creativedrewy</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 434.1895 109.749)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
-   id="text14">twitter.com/creativedrewy</text>
+   id="text14"
+   style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">twitter.com/creativedrewy</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 434.1895 140.751)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="14"
-   id="text16">/in/creativedrewy</text>
+   id="text16"
+   style="-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-family:'Source Sans Pro';font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">/in/creativedrewy</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 45.2002 622.834)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text18">2002</text>
+   id="text18"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2002</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 74.2002 702.334)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text20">2003</text>
+   id="text20"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2003</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 158.2002 625.834)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text22">2006</text>
+   id="text22"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2006</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 213.4507 702.3535)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text24">2008</text>
+   id="text24"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2008</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 269.6006 625.3311)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text26">2010</text>
+   id="text26"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2010</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 342.9355 717.3896)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text28">2014</text>
+   id="text28"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2014</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 35.6924 452.5313)"
    fill="#231F20"
    font-family="'SourceSansPro-Light'"
    font-size="11"
-   id="text30">Apps on Play Store for which I was lead developer:</text>
+   id="text30"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Apps on Play Store for which I was lead developer:</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 35.6924 501.8184)"
    fill="#231F20"
    font-family="'SourceSansPro-Light'"
    font-size="11"
-   id="text32">Videos from developer-oriented pilot YouTube show I hosted for The Nerdery:</text>
+   id="text32"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Videos from developer-oriented pilot YouTube show I hosted for The Nerdery:</text>
+
+
 
 <g
    id="g35">
@@ -192,12 +250,16 @@
    font-size="22"
    id="text50">What You Need TO KNOw</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 17.6924 380.666)"
    fill="#B22525"
    font-family="'BebasNeueBold'"
    font-size="22"
    id="text52">HIghlights</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 18.6924 594.5)"
@@ -206,6 +268,8 @@
    font-size="22"
    id="text54">Development Experience Timeline</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 414 188)"
    fill="#B22525"
@@ -213,23 +277,30 @@
    font-size="20"
    id="text56">Programming languages:</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 35.6924 465.5713)"
-   id="text62"><tspan
+   id="text62"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#156B6B"
      font-family="'SourceSansPro-Semibold'"
      font-size="12"
      text-decoration=" underline"
-     id="tspan58">http://creativedrewy.com/highlight/2</tspan><tspan
+     id="tspan58"
+     style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/2</tspan><tspan
      x="0"
      y="15"
      fill="#156B6B"
      font-family="'SourceSansPro-Semibold'"
      font-size="12"
      text-decoration=" underline"
-     id="tspan60">http://creativedrewy.com/highlight/3</tspan></text>
+     id="tspan60"
+     style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/3</tspan></text>
+
+
 
 <text
    transform="matrix(1 0 0 1 35.6924 513.8584)"
@@ -237,14 +308,12 @@
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    text-decoration=" underline"
-   id="text64">http://creativedrewy.com/highlight/4</text>
+   id="text64"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/4</text>
 
-<text
-   transform="matrix(1 0 0 1 18.6924 692.8184)"
-   fill="#231F20"
-   font-family="'SourceSansPro-Bold'"
-   font-size="26"
-   id="text66">--  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --</text>
+
+
+
 
 <circle
    fill="#231F20"
@@ -367,37 +436,55 @@
    transform="matrix(1 0 0 1 413.874 210)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text102">Java</text>
+   id="text102"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Java</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 414 229.5)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text104">C#</text>
+   id="text104"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">C#</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 413.874 247)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text106">Javascript</text>
+   id="text106"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Javascript</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 413.874 265)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text108">Typescript</text>
+   id="text108"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Typescript</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 413.874 283.5)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text110">Kotlin</text>
+   id="text110"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Kotlin</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 413.874 302)"
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
-   id="text112">Swift</text>
+   id="text112"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Swift</text>
+
+
 
 <rect
    x="524.27"
@@ -650,6 +737,8 @@
      id="tspan168"
      style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">developed and led multiple consumer-facing, high-rated Play Store apps.</tspan></text>
 
+
+
 <rect
    x="35.67"
    y="235.667"
@@ -659,25 +748,31 @@
    id="rect172" />
 <text
    transform="matrix(1 0 0 1 35.6704 243.5762)"
-   id="text180"><tspan
+   id="text180"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan174">I've been a lead developer for years. I've successfully led countless projects </tspan><tspan
+     id="tspan174"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">I've been a lead developer for years. I've successfully led countless projects </tspan><tspan
      x="0"
      y="13.2"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan176">involving multiple and varied programming languages, frameworks, and </tspan><tspan
+     id="tspan176"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">involving multiple and varied programming languages, frameworks, and </tspan><tspan
      x="0"
      y="26.4"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan178">platforms. My development teams are usually 1 to 8 developers.</tspan></text>
+     id="tspan178"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">platforms. My development teams are usually 1 to 8 developers.</tspan></text>
+
+
 
 <rect
    x="36.337"
@@ -688,25 +783,31 @@
    id="rect182" />
 <text
    transform="matrix(1 0 0 1 36.3369 290.5762)"
-   id="text190"><tspan
+   id="text190"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan184">I'm super passionate about excellent application architecture, </tspan><tspan
+     id="tspan184"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">I'm super passionate about excellent application architecture, </tspan><tspan
      x="0"
      y="13.2"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan186">maintainability, and code quality. I do it for my own sanity; I have the most </tspan><tspan
+     id="tspan186"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">maintainability, and code quality. I do it for my own sanity; I have the most </tspan><tspan
      x="0"
      y="26.4"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan188">fun when I'm working in a quality code base.</tspan></text>
+     id="tspan188"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">fun when I'm working in a quality code base.</tspan></text>
+
+
 
 <rect
    x="36.333"
@@ -717,19 +818,24 @@
    id="rect192" />
 <text
    transform="matrix(1 0 0 1 36.3335 337.5762)"
-   id="text198"><tspan
+   id="text198"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan194">I love keeping up with the latest programming technologies and </tspan><tspan
+     id="tspan194"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">I love keeping up with the latest programming technologies and </tspan><tspan
      x="0"
      y="15"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan196">frameworks. If it's cool, I probably want to work with it.</tspan></text>
+     id="tspan196"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">frameworks. If it's cool, I probably want to work with it.</tspan></text>
+
+
 
 <rect
    x="35"
@@ -740,19 +846,24 @@
    id="rect200" />
 <text
    transform="matrix(1 0 0 1 35 400.5762)"
-   id="text206"><tspan
+   id="text206"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan202">My Android Wear app - WeaRSS - was featured as a &quot;Hand-Picked for Wear&quot; </tspan><tspan
+     id="tspan202"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">My Android Wear app - WeaRSS - was featured as a &quot;Hand-Picked for Wear&quot; </tspan><tspan
      x="0"
      y="15"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan204">app in Google Play. Other good internet coverage as well:</tspan></text>
+     id="tspan204"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">app in Google Play. Other good internet coverage as well:</tspan></text>
+
+
 
 <text
    transform="matrix(1 0 0 1 35.3369 430.1924)"
@@ -760,7 +871,10 @@
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    text-decoration=" underline"
-   id="text208">http://creativedrewy.com/highlight/1</text>
+   id="text208"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/1</text>
+
+
 
 <line
    fill="none"
@@ -789,12 +903,16 @@
    font-size="12"
    id="text214">+</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 24.5 244)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text216">+</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 24.5 291)"
@@ -803,12 +921,16 @@
    font-size="12"
    id="text218">+</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 24.5 338)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text220">+</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 24.5 401)"
@@ -817,12 +939,16 @@
    font-size="12"
    id="text222">+</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 24.5 452)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text224">+</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 24.5 502)"
@@ -831,12 +957,16 @@
    font-size="12"
    id="text226">+</text>
 
+
+
 <text
    transform="matrix(1 0 0 1 24.5 536)"
    fill="#B22525"
    font-family="'SourceSansPro-Black'"
    font-size="12"
    id="text228">+</text>
+
+
 
 <line
    fill="none"
@@ -858,38 +988,46 @@
    height="90.25"
    id="rect232" />
 	<text
+   id="text244"
    transform="matrix(1 0 0 1 414 352.9717)"
-   id="text244"><tspan
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
-     fill="#231F20"
-     font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan234">Android</tspan><tspan
+     id="tspan234"
+     font-family="'SourceSansPro-Light'"
+     fill="#231F20"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Android</tspan><tspan
      x="0"
      y="16"
-     fill="#231F20"
-     font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan236">.NET</tspan><tspan
+     id="tspan236"
+     font-family="'SourceSansPro-Light'"
+     fill="#231F20"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">.NET</tspan><tspan
      x="0"
      y="32"
-     fill="#231F20"
-     font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan238">Xamarin</tspan><tspan
+     id="tspan238"
+     font-family="'SourceSansPro-Light'"
+     fill="#231F20"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Xamarin</tspan><tspan
      x="0"
      y="48"
-     fill="#231F20"
-     font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan240">ASP MVC</tspan><tspan
+     id="tspan240"
+     font-family="'SourceSansPro-Light'"
+     fill="#231F20"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">ASP MVC</tspan><tspan
      x="0"
      y="64"
-     fill="#231F20"
-     font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan242">OpenGL/Shaders</tspan></text>
+     id="tspan242"
+     font-family="'SourceSansPro-Light'"
+     fill="#231F20"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">OpenGL/Shaders</tspan></text>
+
+
 
 	<rect
    x="504.584"
@@ -900,37 +1038,45 @@
    id="rect246" />
 	<text
    transform="matrix(1 0 0 1 504.584 352.9717)"
-   id="text258"><tspan
+   id="text258"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan248">AngularJS</tspan><tspan
+     id="tspan248"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">AngularJS</tspan><tspan
      x="0"
      y="16"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan250">Node.js</tspan><tspan
+     id="tspan250"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Node.js</tspan><tspan
      x="0"
      y="32"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan252">Express.JS</tspan><tspan
+     id="tspan252"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Express.JS</tspan><tspan
      x="0"
      y="48"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan254">Wordpress</tspan><tspan
+     id="tspan254"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Wordpress</tspan><tspan
      x="0"
      y="64"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan256">Expression Engine</tspan></text>
+     id="tspan256"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Expression Engine</tspan></text>
+
+
 
 	<text
    transform="matrix(1 0 0 1 413.874 335.0005)"
@@ -938,6 +1084,8 @@
    font-family="'BebasNeueBold'"
    font-size="20"
    id="text260">Framework/platform dev:</text>
+
+
 
 	<line
    fill="none"
@@ -961,31 +1109,38 @@
    id="rect266" />
 	<text
    transform="matrix(1 0 0 1 414 468.7871)"
-   id="text276"><tspan
+   id="text276"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan268">GoPro </tspan><tspan
+     id="tspan268"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">GoPro </tspan><tspan
      x="0"
      y="16"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan270">YouTube</tspan><tspan
+     id="tspan270"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">YouTube</tspan><tspan
      x="0"
      y="32"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan272">Microsoft</tspan><tspan
+     id="tspan272"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Microsoft</tspan><tspan
      x="0"
      y="48"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan274">HTC</tspan></text>
+     id="tspan274"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">HTC</tspan></text>
+
+
 
 	<rect
    x="504.542"
@@ -996,31 +1151,38 @@
    id="rect278" />
 	<text
    transform="matrix(1 0 0 1 504.542 468.7871)"
-   id="text288"><tspan
+   id="text288"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan280">Cisco</tspan><tspan
+     id="tspan280"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Cisco</tspan><tspan
      x="0"
      y="16"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan282">Medtronic</tspan><tspan
+     id="tspan282"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Medtronic</tspan><tspan
      x="0"
      y="32"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan284">Trunk Club</tspan><tspan
+     id="tspan284"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Trunk Club</tspan><tspan
      x="0"
      y="48"
      fill="#231F20"
      font-family="'SourceSansPro-Light'"
      font-size="12"
-     id="tspan286">Virgin Mobile</tspan></text>
+     id="tspan286"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Virgin Mobile</tspan></text>
+
+
 
 	<text
    transform="matrix(1 0 0 1 414 449.8643)"
@@ -1028,6 +1190,8 @@
    font-family="'BebasNeueBold'"
    font-size="20"
    id="text290">notable Work:</text>
+
+
 
 	<line
    fill="none"
@@ -1060,19 +1224,28 @@
    transform="matrix(1 0 0 1 423.0947 549.1396)"
    font-family="'SourceSansPro-Bold'"
    font-size="11"
-   id="text300">Timeline Key - Employer:</text>
+   id="text300"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Timeline Key - Employer:</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 440.9053 596.4766)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text302">The Nerdery</text>
+   id="text302"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">The Nerdery</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 440.9053 580.4502)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text304">Kroll Ontrack</text>
+   id="text304"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Kroll Ontrack</text>
+
+
 
 <line
    fill="none"
@@ -1093,22 +1266,28 @@
    id="rect308" />
 <text
    transform="matrix(1 0 0 1 45.2002 634.2197)"
-   id="text316"><tspan
+   id="text316"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan310">Graduate University of </tspan><tspan
+     id="tspan310"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Graduate University of </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan312">MN, BS Computer </tspan><tspan
+     id="tspan312"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">MN, BS Computer </tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan314">Science With Honors</tspan></text>
+     id="tspan314"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Science With Honors</tspan></text>
+
+
 
 <line
    fill="none"
@@ -1129,17 +1308,22 @@
    id="rect320" />
 <text
    transform="matrix(1 0 0 1 72.8501 714.2646)"
-   id="text326"><tspan
+   id="text326"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan322">Hired as a full-time </tspan><tspan
+     id="tspan322"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Hired as a full-time </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan324">Software Test Engineer</tspan></text>
+     id="tspan324"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Software Test Engineer</tspan></text>
+
+
 
 <g
    id="g334">
@@ -1178,27 +1362,34 @@
    id="rect338" />
 <text
    transform="matrix(1 0 0 1 158.0503 637.8525)"
-   id="text348"><tspan
+   id="text348"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan340">Move to development </tspan><tspan
+     id="tspan340"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Move to development </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan342">working on C# </tspan><tspan
+     id="tspan342"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">working on C# </tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan344">WinForm/MS SQL </tspan><tspan
+     id="tspan344"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">WinForm/MS SQL </tspan><tspan
      x="0"
      y="33"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan346">backed application</tspan></text>
+     id="tspan346"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">backed application</tspan></text>
+
+
 
 <g
    id="g356">
@@ -1237,22 +1428,28 @@
    id="rect360" />
 <text
    transform="matrix(1 0 0 1 213.2002 714.2646)"
-   id="text368"><tspan
+   id="text368"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan362">Begin professional </tspan><tspan
+     id="tspan362"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Begin professional </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan364">Flash/Actionscript 3 </tspan><tspan
+     id="tspan364"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Flash/Actionscript 3 </tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan366">interactive development</tspan></text>
+     id="tspan366"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">interactive development</tspan></text>
+
+
 
 <g
    id="g376">
@@ -1300,27 +1497,34 @@
    id="rect382" />
 <text
    transform="matrix(1 0 0 1 270.0503 637.8525)"
-   id="text392"><tspan
+   id="text392"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan384">+ First Android development </tspan><tspan
+     id="tspan384"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ First Android development </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan386">on a large-scale application</tspan><tspan
+     id="tspan386"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">on a large-scale application</tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan388">+ Interactive Javascript/SPA </tspan><tspan
+     id="tspan388"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Interactive Javascript/SPA </tspan><tspan
      x="0"
      y="33"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan390">development</tspan></text>
+     id="tspan390"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">development</tspan></text>
+
+
 
 <g
    id="g400">
@@ -1359,22 +1563,28 @@
    id="rect404" />
 <text
    transform="matrix(1 0 0 1 357.9141 745.3379)"
-   id="text412"><tspan
+   id="text412"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan406">Xamarin development</tspan><tspan
+     id="tspan406"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Xamarin development</tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan408">AngularJS development</tspan><tspan
+     id="tspan408"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">AngularJS development</tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan410">Mentor Android developers</tspan></text>
+     id="tspan410"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Mentor Android developers</tspan></text>
+
+
 
 <g
    id="g420">
@@ -1416,13 +1626,19 @@
    transform="matrix(1 0 0 1 357.4053 730.4453)"
    font-family="'SourceSansPro-ExtraLight'"
    font-size="10"
-   id="text430">WeaRSS app released</text>
+   id="text430"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">WeaRSS app released</text>
+
+
 
 <text
    transform="matrix(1 0 0 1 440.9053 564.335)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text432">Education</text>
+   id="text432"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Education</text>
+
+
 
 <g
    id="g440">
@@ -1535,7 +1751,10 @@
    transform="matrix(1 0 0 1 532.7959 596.335)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text474">Myself</text>
+   id="text474"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Myself</text>
+
+
 
 <g
    id="g482">
@@ -1559,7 +1778,10 @@
    transform="matrix(1 0 0 1 532.7959 564.334)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text484">Vemory</text>
+   id="text484"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Vemory</text>
+
+
 
 <g
    id="g492">
@@ -1583,7 +1805,10 @@
    transform="matrix(1 0 0 1 532.7959 580.3096)"
    font-family="'SourceSansPro-Regular'"
    font-size="11"
-   id="text494">GoPro</text>
+   id="text494"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">GoPro</text>
+
+
 
 <g
    id="g502">
@@ -1629,7 +1854,10 @@
    transform="matrix(1 0 0 1 410.2734 625.3311)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text510">2015</text>
+   id="text510"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2015</text>
+
+
 
 <line
    fill="none"
@@ -1665,7 +1893,10 @@
    transform="matrix(1 0 0 1 484 717.3896)"
    font-family="'SourceSansPro-Semibold'"
    font-size="11"
-   id="text518">2016</text>
+   id="text518"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2016</text>
+
+
 
 <g
    id="g526">
@@ -1712,27 +1943,34 @@
    id="rect536" />
 <text
    transform="matrix(1 0 0 1 410.2734 637.8525)"
-   id="text546"><tspan
+   id="text546"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan538">+ Hired by Austin-based startup to build </tspan><tspan
+     id="tspan538"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Hired by Austin-based startup to build </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan540">advanced Android video editor</tspan><tspan
+     id="tspan540"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">advanced Android video editor</tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan542">+ Create Android video compositor </tspan><tspan
+     id="tspan542"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Create Android video compositor </tspan><tspan
      x="0"
      y="33"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan544">playback system</tspan></text>
+     id="tspan544"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">playback system</tspan></text>
+
+
 
 <rect
    x="485"
@@ -1743,27 +1981,34 @@
    id="rect548" />
 <text
    transform="matrix(1 0 0 1 485 730.2803)"
-   id="text558"><tspan
+   id="text558"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan550">+ Successful startup exit w/ </tspan><tspan
+     id="tspan550"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Successful startup exit w/ </tspan><tspan
      x="0"
      y="11"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan552">Vemory acquired by GoPro</tspan><tspan
+     id="tspan552"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Vemory acquired by GoPro</tspan><tspan
      x="0"
      y="22"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan554">+ Contribute to GoPro </tspan><tspan
+     id="tspan554"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">+ Contribute to GoPro </tspan><tspan
      x="0"
      y="33"
      font-family="'SourceSansPro-ExtraLight'"
      font-size="10"
-     id="tspan556">Android projects</tspan></text>
+     id="tspan556"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Android projects</tspan></text>
+
+
 
 <text
    transform="matrix(1 0 0 1 36.7842 562.2773)"
@@ -1771,7 +2016,10 @@
    font-family="'SourceSansPro-Semibold'"
    font-size="12"
    text-decoration=" underline"
-   id="text560">http://creativedrewy.com/highlight/5</text>
+   id="text560"
+   style="-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-family:'Source Sans Pro';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">http://creativedrewy.com/highlight/5</text>
+
+
 
 <rect
    x="36.784"
@@ -1782,16 +2030,21 @@
    id="rect562" />
 <text
    transform="matrix(1 0 0 1 36.7842 535.8525)"
-   id="text568"><tspan
+   id="text568"
+   style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
      x="0"
      y="0"
-     font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan564">I implemented a widget layout that was on every new Virgin Mobile phone and </tspan><tspan
+     id="tspan564"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     font-family="'SourceSansPro-Light'">I implemented a widget layout that was on every new Virgin Mobile phone and </tspan><tspan
      x="0"
      y="13.2"
-     font-family="'SourceSansPro-Light'"
      font-size="11"
-     id="tspan566">box art for a time. It looked pretty much like this:</tspan></text>
+     id="tspan566"
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     font-family="'SourceSansPro-Light'">box art for a time. It looked pretty much like this:</tspan></text>
+
+
 
 </svg>
