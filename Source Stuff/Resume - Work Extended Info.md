@@ -1,20 +1,20 @@
 # The Details
 
-### GoPro
+### GoPro (March 2016 - December 2016)
 - Implemented a media-oriented Android library for utilization within multiple GoPro Android apps. It had an intuitive interface that made extending for new use cases really simple.
 - Easily adapted my video compositor system (see Vemory section) to be utilized with a yet-to-be-released GoPro technology. Win!
 - Joined the development efforts of the flagship GoPro app, fixing bugs prior to a crucial release.
 
-### Vemory
+### Vemory (December 2015 - March 2016)
 - Advanced work with Android media APIs: implemented a slick NLE-inspired, timeline-based "video compositor" system. Involved OpenGL rendering with realtime shader effects.
 - Wrote a Fluent API library encapsulating the (complex and wierd) FFMpeg command line interface, enabling it to be easily utilized within an Android app.
 - We were a startup that actually got acquired. Win!
 
-### Novu
+### Novu (April 2015 - November 2015)
 - Ported Novu's existing iOS app to Android and successfully released it to the Play store.
 - Learned Swift and general iOS development by contributing some features to the iOS app.
 
-### The Nerdery
+### The Nerdery (February 2008 - April 2015)
 - I was the lead developer on tons of projects - Android apps as well as other languages and platforms (more on that in a bit).
 - Mentored other Android developers.
 - Was part of the Android committee that guided all the Android development in the company.
@@ -30,7 +30,7 @@
 - Delegate tasks to teams of 2 to 8 developers and ensure successful development completion.
 - Complete my own development tasks and move the project forward.
 
-### Kroll Ontrack
+### Kroll Ontrack (March 2006 - February 2008)
 - I actually started as a Test Engineer, but then largely self-taught myself C# and WinForms desktop app development.
 - Worked on a variety of line-of-business WinForms apps that interfaced with large-scale databases.
 - Rewrote a particular tool that reduced task completion time from multiple days to mere seconds. Win!
