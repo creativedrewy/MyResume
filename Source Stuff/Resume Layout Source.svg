@@ -64,7 +64,11 @@
   <style
    type="text/css"
    id="style8">
-    @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+    @import url('https://fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro');
+
+    .title {
+      text-transform: uppercase;
+    }
   </style>
 </defs>
 
@@ -77,8 +81,9 @@
    y="1.4546397" /><text
    transform="matrix(1 0 0 1 154.6416 61.5566)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="38"
+   class="title"
    id="text2">Andrew Watson</text>
 
 
@@ -278,9 +283,10 @@
 <text
    transform="matrix(1 0 0 1 18.5 189)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="22"
-   id="text50">What You Need TO KNOw</text>
+   class="title"
+   id="text50">What You Need To Know</text>
 
 
 
@@ -288,9 +294,10 @@
 <text
    transform="matrix(1 0 0 1 17.6924 380.666)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="22"
-   id="text52">HIghlights</text>
+   class="title"
+   id="text52">Highlights</text>
 
 
 
@@ -298,8 +305,9 @@
 <text
    transform="matrix(1 0 0 1 18.6924 594.5)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="22"
+   class="title"
    id="text54">Development Experience Timeline</text>
 
 
@@ -308,8 +316,9 @@
 <text
    transform="matrix(1 0 0 1 414 188)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="20"
+   class="title"
    id="text56">Programming languages:</text>
 
 
@@ -779,7 +788,20 @@
      font-family="'SourceSansPro-Light'"
      font-size="11"
      id="tspan168"
-     style="-inkscape-font-specification:'Source Sans Pro, Normal';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">developed and led multiple consumer-facing, high-rated Play Store apps.</tspan></text>
+     style="-inkscape-font-specification:'Source Sans Pro, Normal';
+     font-family:'Source Sans Pro';
+     font-weight:normal;
+     font-style:normal;
+     font-stretch:normal;
+     font-variant:normal;
+     font-size:12px;
+     text-anchor:start;
+     text-align:start;
+     writing-mode:lr;
+     font-variant-ligatures:normal;
+     font-variant-caps:normal;
+     font-variant-numeric:normal;
+     font-feature-settings:normal;">developed and led multiple consumer-facing, high-rated Play Store apps.</tspan></text>
 
 
 
@@ -1141,9 +1163,10 @@
 	<text
    transform="matrix(1 0 0 1 413.874 335.0005)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="20"
-   id="text260">Framework/platform dev:</text>
+   class="title"
+   id="text260">Framework Dev:</text>
 
 
 
@@ -1250,9 +1273,10 @@
 	<text
    transform="matrix(1 0 0 1 414 449.8643)"
    fill="#B22525"
-   font-family="'BebasNeueBold'"
+   font-family="'BebasNeueBold', 'Oswald'"
    font-size="20"
-   id="text290">notable Work:</text>
+   class="title"
+   id="text290">Notable Work:</text>
 
 
 
