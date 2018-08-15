@@ -71,11 +71,10 @@ http://creativedrewy.com/highlight/5
 
 # Programming Languages:
 
+- Kotlin - 5/5
 - Java - 5/5
 - C# - 5/5
-- Javascript - 5/5
 - Typescript - 4/5
-- Kotlin - 3.5/5
 - Swift - 2/5
 
 # Real-World Framework/Platform Development:
@@ -89,15 +88,3 @@ http://creativedrewy.com/highlight/5
 - Node.js
 - Expressjs
 - Wordpress
-
-# Notable Work:
-
-- GoPro
-- YouTube
-- Microsoft
-- HTC
-- Nike
-- HBO
-- Cisco
-- Trunk Club
-- Virgin Mobile
