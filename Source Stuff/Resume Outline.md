@@ -15,23 +15,26 @@
 # What You Need to Know:
 
 - I've been working with the Android platform since 2010. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
-- I've been a lead developer for years. I've successfully led countless projects involving multiple and varied programming languages, frameworks, and platforms. My development teams are usually 1 to 8 developers.
 - I'm super passionate about excellent application architecture, maintainability, and code quality. I do it for my own sanity; I have the most fun when I'm working in a quality code base.
-- I love keeping up with the latest programming technologies and frameworks. If it's cool, I probably want to work with it.
+- I've been a lead developer for years. I've successfully led countless projects involving multiple and varied programming languages, frameworks, and platforms. My team size was usually 1 to 8 developers.
+- I love keeping up with the latest programming technologies and frameworks, not just in Android dev. If it's cool, I'm probably interested.
 
 # Highlights:
 
-- My Android Wear app - WeaRSS - was featured as a "Hand-Picked for Wear" app in Google Play. Other good internet coverage as well:
+- My Android Wear app - WeaRSS - was featured as a "Hand-Picked for Wear" app in Google Play. At the time I got some other good internet coverage too:
 http://creativedrewy.com/highlight/1
 - Apps on Play Store for which I was lead developer:
 http://creativedrewy.com/highlight/2<br/>
-http://creativedrewy.com/highlight/3
+http://creativedrewy.com/highlight/3 [https://www.youtube.com/watch?v=icarsdl0eug]
+- I've done enough Javascript development over the years that I felt compelled to make this video:
+http://creativedrewy.com/highlight/5 [Javascript an honest preview]
 - Some videos of a pilot YouTube show I hosted for The Nerdery:
 http://creativedrewy.com/highlight/4
-- I did the layout for a widget that was featured on every new Virgin mobile phone for a time. It looked pretty much like this:
-http://creativedrewy.com/highlight/5
 
 # Development Experience Timeline:
+
+The Interesting Stuff
+=====================
 
 ### 2016
 - Successful startup exit as Vemory aquired by GoPro
@@ -60,6 +63,9 @@ http://creativedrewy.com/highlight/5
 ### 2008
 - Begin professional Flash/Actionscript 3 interactive development
 
+The Boring Stuff
+================
+
 ### 2006
 - Move to Software developer working on C# WinForm/MS SQL-backed application development
 
@@ -68,6 +74,10 @@ http://creativedrewy.com/highlight/5
 
 ### 2002
 - Graduate University of MN, BS Computer Science With Honors
+
+### More
+
+- Want to know more? Lots more detail on my LinkedIn profile referenced above.
 
 # Programming Languages:
 
@@ -96,7 +106,7 @@ http://creativedrewy.com/highlight/5
 - Unity
 - ASP MVC
 - Express
+- HTML/CSS
 - Node.js
 - Xamarin Android/iOS
 - OpenGL/Shader integration
-- HTML/CSS
