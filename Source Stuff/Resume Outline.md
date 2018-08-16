@@ -77,14 +77,26 @@ http://creativedrewy.com/highlight/5
 - Typescript - 4/5
 - Swift - 2/5
 
-# Real-World Framework/Platform Development:
+#My Android Stack:
 
-- Android
-- OpenGl/Shader integration
-- .NET
+- Min SDK 21
+- Kotlin
+- MVVM
+- Arch Components
+- ConstraintLayout
+- Dagger 2
+- RxJava
+- Retrofit
+- Spek w/ JUnit
+- Cucumber w/ Espresso
+
+# Other Dev I've Done:
+
+- Angular
+- Unity
 - ASP MVC
-- Xamarin Android/iOS
-- AngularJS
+- Express
 - Node.js
-- Expressjs
-- Wordpress
+- Xamarin Android/iOS
+- OpenGL/Shader integration
+- HTML/CSS
