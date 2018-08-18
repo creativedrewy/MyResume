@@ -91,14 +91,16 @@ Graduate University of MN, BS Computer Science With Honors
 
 - Min SDK 21
 - Kotlin
+- Kotlin Extensions
 - MVVM
 - Arch Components
 - ConstraintLayout
 - Dagger 2
 - RxJava
 - Retrofit
-- Spek w/ JUnit
-- Cucumber w/ Espresso
+- Spek
+- Cucumber
+- Espresso
 
 # Other Dev I've Done:
 
@@ -108,5 +110,5 @@ Graduate University of MN, BS Computer Science With Honors
 - Express
 - HTML/CSS
 - Node.js
-- Xamarin Android/iOS
-- OpenGL/Shader integration
+- Xamarin Mobile
+- Shader integration
