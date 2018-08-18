@@ -15,15 +15,16 @@
 # What You Need to Know:
 
 - I've been working with the Android platform since 2010. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
-- I'm super passionate about excellent application architecture, maintainability, and code quality. I do it for my own sanity; I have the most fun when I'm working in a quality code base.
+- I'm super passionate about excellent application architecture, maintainability, and code quality. I do it for my own sanity; I have the 
+  most fun when I'm working in a quality code base.
 - I've been a lead developer for years. I've successfully led countless projects involving multiple and varied programming languages, frameworks, and platforms. My team size was usually 1 to 8 developers.
 - I love keeping up with the latest programming technologies and frameworks, not just in Android dev. If it's cool, I'm probably interested.
 
 # Highlights:
 
-- My Android Wear app - WeaRSS - was featured as a "Hand-Picked for Wear" app in the Play Store. At the time I got some other good internet coverage too:
+- My Android Wear app - WeaRSS - was featured as "Hand-Picked for Wear" in the Play Store. At the time I got some other good internet coverage too:         
 http://creativedrewy.com/highlight/1
-- Apps on Play Store for which I was lead developer:
+- A couple apps for which I was lead developer:
 http://creativedrewy.com/highlight/2<br/>
 http://creativedrewy.com/highlight/3 [https://www.youtube.com/watch?v=icarsdl0eug]
 - My somewhat-contrived Android app with all the latest toys:
@@ -81,34 +82,34 @@ Graduate University of MN, BS Computer Science With Honors
 
 # Programming Languages:
 
-- Kotlin - 5/5
-- Java - 5/5
-- C# - 5/5
-- Typescript - 4/5
-- Swift - 2/5
+Kotlin - 5/5
+Java - 5/5
+C# - 5/5
+Typescript - 4/5
+Swift - 2/5
 
 #My Android Stack:
 
-- Min SDK 21
-- Kotlin
-- Kotlin Extensions
-- MVVM
-- Arch Components
-- ConstraintLayout
-- Dagger 2
-- RxJava
-- Retrofit
-- Spek
-- Cucumber
-- Espresso
+Min SDK 21
+Kotlin
+Kotlin Extensions
+MVVM
+Arch Components
+ConstraintLayout
+Dagger 2
+RxJava
+Retrofit
+Spek
+Cucumber
+Espresso
 
 # Other Dev I've Done:
 
-- Angular
-- Unity
-- ASP MVC
-- Express
-- HTML/CSS
-- Node.js
-- Xamarin Mobile
-- Shader integration
+Angular
+Unity
+ASP MVC
+Express
+HTML/CSS
+Node.js
+Xamarin Mobile
+Shader integration
