@@ -37,8 +37,8 @@
    id="namedview571"
    showgrid="false"
    inkscape:zoom="2"
-   inkscape:cx="635.84581"
-   inkscape:cy="730.99415"
+   inkscape:cx="657.5158"
+   inkscape:cy="721.39054"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -139,14 +139,6 @@
      position="606,685.5"
      orientation="0,1"
      id="guide1030"
-     inkscape:locked="false" /><sodipodi:guide
-     position="611.5,661.5"
-     orientation="0,1"
-     id="guide1032"
-     inkscape:locked="false" /><sodipodi:guide
-     position="618,680"
-     orientation="0,1"
-     id="guide1034"
      inkscape:locked="false" /></sodipodi:namedview>
 
 <defs
@@ -521,9 +513,9 @@
 <text
    font-size="12"
    id="text102"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.73688"
-   y="269.28937"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="552"
+   y="294.72"
    inkscape:label="language_java">Java</text>
 
 
@@ -531,45 +523,39 @@
 <text
    font-size="12"
    id="text104"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.90497"
-   y="295.30716">C#</text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="551.59998"
+   y="318.52802">C#</text>
 
 
 
-<text
-   font-size="12"
-   id="text106"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.73688"
-   y="318.65643">Javascript</text>
 
 
 
 <text
    font-size="12"
    id="text108"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.73688"
-   y="342.67288">Typescript</text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="551.96802"
+   y="341.25867">Typescript</text>
 
 
 
 <text
    font-size="12"
    id="text110"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.73688"
-   y="367.35641">Kotlin</text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="551.02191"
+   y="270.56351">Kotlin</text>
 
 
 
 <text
    font-size="12"
    id="text112"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.01094818px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="551.73688"
-   y="392.03995">Swift</text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="551.776"
+   y="366.72">Swift</text>
 
 
 
@@ -693,49 +679,14 @@
    height="17.291822"
    id="rect142"
    style="fill:#b22525;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
+
+
+
+
+
 <rect
    x="699.03229"
-   y="352.70642"
-   stroke-miterlimit="10"
-   width="17.293158"
-   height="17.291822"
-   id="rect144"
-   style="fill:#b22525;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
-<rect
-   x="771.4151"
-   y="352.70642"
-   stroke-miterlimit="10"
-   width="17.293158"
-   height="17.291822"
-   id="rect146"
-   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
-<rect
-   x="747.39868"
-   y="352.70642"
-   stroke-miterlimit="10"
-   width="17.293158"
-   height="17.291822"
-   id="rect148"
-   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
-<rect
-   x="723.38226"
-   y="352.70642"
-   stroke-miterlimit="10"
-   width="17.293158"
-   height="17.291822"
-   id="rect150"
-   style="fill:#b22525;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
-<rect
-   x="675.34937"
-   y="352.70642"
-   stroke-miterlimit="10"
-   width="17.293158"
-   height="17.291822"
-   id="rect152"
-   style="fill:#b22525;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
-<rect
-   x="699.03229"
-   y="376.72284"
+   y="352.60104"
    stroke-miterlimit="10"
    width="17.293158"
    height="17.291822"
@@ -743,7 +694,7 @@
    style="fill:#b22525;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
 <rect
    x="771.4151"
-   y="376.72284"
+   y="352.60104"
    stroke-miterlimit="10"
    width="17.293158"
    height="17.291822"
@@ -751,7 +702,7 @@
    style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
 <rect
    x="747.39868"
-   y="376.72284"
+   y="352.60104"
    stroke-miterlimit="10"
    width="17.293158"
    height="17.291822"
@@ -759,7 +710,7 @@
    style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
 <rect
    x="723.38226"
-   y="376.72284"
+   y="352.60104"
    stroke-miterlimit="10"
    width="17.293158"
    height="17.291822"
@@ -767,7 +718,7 @@
    style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" />
 <rect
    x="675.34937"
-   y="376.72284"
+   y="352.60104"
    stroke-miterlimit="10"
    width="17.293158"
    height="17.291822"
@@ -1244,13 +1195,7 @@
    x="23.543726"
    y="25.122438">
 </image>
-<rect
-   x="747.39868"
-   y="352.70642"
-   width="8.6459112"
-   height="17.291822"
-   id="rect444"
-   style="fill:#b22525;stroke-width:1.33424556" />
+
 <line
    stroke-miterlimit="10"
    x1="504.46854"
@@ -1909,4 +1854,14 @@
    x2="792.64423"
    y1="575.2807"
    x1="552.47998"
-   stroke-miterlimit="10" /></svg>
+   stroke-miterlimit="10" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="646.5"
+   y="405.5"
+   id="text1038"><tspan
+     sodipodi:role="line"
+     id="tspan1036"
+     x="646.5"
+     y="441.99323"></tspan></text>
+</svg>
