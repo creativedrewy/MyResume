@@ -1,10 +1,8 @@
 # My Resume
-This is the repo where I maintain my resume and make it available for download.
+This where I maintain my resume and make it available for download.
 
 ### The Official Download
-The most up-to-date "official" version of my resume is in the root directory of this repo listed in the files above. Alternately, you can use the following link:
 
-- [Download Andrew's Resume](https://github.com/creativedrewy/MyResume/raw/master/Andrew_Watson_Resume.pdf)
+Use the following link:
 
-### The Other Stuff
-The "Source Stuff" directory has all of the various files and such that I use to put my resume together.
+- [Download Andrew's Resume](https://github.com/creativedrewy/MyResume/pdf/raw/master/Andrew_Watson_Resume.pdf)
