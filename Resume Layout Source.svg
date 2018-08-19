@@ -37,8 +37,8 @@
    id="namedview571"
    showgrid="false"
    inkscape:zoom="1"
-   inkscape:cx="408.25"
-   inkscape:cy="262.84249"
+   inkscape:cx="332.66687"
+   inkscape:cy="37.14356"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -184,8 +184,8 @@
    font-size="11"
    id="text18"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="-223.33818"
-   y="786.60681">2002</text>
+   x="20.661819"
+   y="846.60681">2002</text>
 
 
 
@@ -204,8 +204,8 @@
    font-size="11"
    id="text22"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="-207.37456"
-   y="1021.5182">2006</text>
+   x="74.625443"
+   y="846.51819">2007</text>
 
 
 
@@ -224,8 +224,8 @@
    font-size="11"
    id="text26"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="852.0144"
-   y="975.59241">2010</text>
+   x="943.0144"
+   y="974.59241">2010</text>
 
 
 
@@ -466,8 +466,8 @@
    font-size="11"
    id="text302"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="574.9895"
-   y="740.94415">The Nerdery</text>
+   x="573.9895"
+   y="758.94415">The Nerdery</text>
 
 
 
@@ -476,8 +476,8 @@
    font-size="11"
    id="text304"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="-113.1967"
-   y="1140.5609">Kroll Ontrack</text>
+   x="579.80328"
+   y="729.56091">Kroll Ontrack</text>
 
 
 
@@ -571,10 +571,10 @@
 </g>
 <line
    stroke-miterlimit="10"
-   x1="286.88367"
-   y1="1101.2346"
-   x2="286.88367"
-   y2="1184.8853"
+   x1="173.88367"
+   y1="810.23462"
+   x2="173.88367"
+   y2="893.88525"
    id="line358"
    style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" />
 <rect
@@ -606,10 +606,10 @@
 </g>
 <line
    stroke-miterlimit="10"
-   x1="844.61407"
-   y1="958.87952"
-   x2="844.61407"
-   y2="1042.53"
+   x1="1034.614"
+   y1="1044.8795"
+   x2="1034.614"
+   y2="1128.53"
    id="line378"
    style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" />
 
@@ -623,7 +623,7 @@
 
 <g
    id="g400"
-   transform="matrix(1.3342456,0,0,1.3342456,492.30103,141.24708)">
+   transform="matrix(1.3342456,0,0,1.3342456,596.02895,243.48467)">
 	<g
    id="g396">
 		<path
@@ -642,10 +642,10 @@
 </g>
 <line
    stroke-miterlimit="10"
-   x1="460.61639"
-   y1="1103.8751"
-   x2="460.61639"
-   y2="1187.5271"
+   x1="233.61639"
+   y1="941.87512"
+   x2="233.61639"
+   y2="1025.5271"
    id="line402"
    style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" />
 <rect
@@ -744,7 +744,7 @@
    style="fill:none;stroke:#333333;stroke-width:0.66712278;stroke-miterlimit:10" />
 <g
    id="g456"
-   transform="matrix(1.3342456,0,0,1.3342456,-701.47268,366.0978)">
+   transform="matrix(1.3342456,0,0,1.3342456,-8.47268,-44.9022)">
 	<rect
    x="423.67499"
    y="570.38397"
@@ -782,7 +782,7 @@
 </g>
 <g
    id="g472"
-   transform="matrix(1.3342456,0,0,1.3342456,-13.286488,-54.902193)">
+   transform="matrix(1.3342456,0,0,1.3342456,-14.286488,-36.902193)">
 	<rect
    x="423.67499"
    y="586.409"
@@ -804,7 +804,7 @@
    id="text474"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    x="696.95886"
-   y="763.75525">Myself</text>
+   y="763.75525">Microsoft</text>
 
 
 
@@ -839,8 +839,8 @@
    font-size="11"
    id="text484"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="696.95886"
-   y="704.49371">Vemory</text>
+   x="740.7995"
+   y="742.67749">Vemory</text>
 
 
 
@@ -852,25 +852,7 @@
 
 
 
-<g
-   id="g492"
-   transform="matrix(1.3342456,0,0,1.3342456,-13.921722,-48.466461)">
-	<rect
-   x="516.33801"
-   y="554.40802"
-   stroke-miterlimit="10"
-   width="12.961"
-   height="12.961"
-   id="rect486"
-   style="fill:none;stroke:#555555;stroke-miterlimit:10" />
-	<g
-   id="g490">
-		<path
-   d="m 519.683,557.302 h 1.717 l 0.857,3.345 c 0.221,0.78 0.363,1.507 0.583,2.299 h 0.044 c 0.209,-0.792 0.363,-1.519 0.572,-2.299 l 0.848,-3.345 h 1.65 l -2.157,7.173 h -1.947 z"
-   id="path488"
-   inkscape:connector-curvature="0" />
-	</g>
-</g>
+
 <text
    font-size="11"
    id="text494"
@@ -1019,29 +1001,29 @@
    style="fill:none;stroke-width:1.33424556" />
 <text
    id="text558"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   x="757.69659"
-   y="1125.9341"><tspan
-     x="757.69659"
-     y="1125.9341"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.33424556;"
+   x="658.69659"
+   y="798.93408"><tspan
+     x="658.69659"
+     y="798.93408"
      font-size="10"
      id="tspan550"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556">+ Successful startup exit w/ </tspan><tspan
-     x="757.69659"
-     y="1140.6107"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.33424556;">+ Successful startup exit w/ </tspan><tspan
+     x="658.69659"
+     y="813.61072"
      font-size="10"
      id="tspan552"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556">Vemory acquired by GoPro</tspan><tspan
-     x="757.69659"
-     y="1155.2875"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.33424556;">Vemory acquired by GoPro</tspan><tspan
+     x="658.69659"
+     y="828.28748"
      font-size="10"
      id="tspan554"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556">+ Contribute to GoPro </tspan><tspan
-     x="757.69659"
-     y="1169.9642"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.33424556;">+ Contribute to GoPro </tspan><tspan
+     x="658.69659"
+     y="842.96423"
      font-size="10"
      id="tspan556"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556">Android projects</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:1.33424556;">Android projects</tspan></text>
 
 
 
@@ -1094,16 +1076,16 @@
 <flowRoot
    xml:space="preserve"
    id="flowRoot783-4"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-1.8823734,509.23832)"><flowRegion
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+   transform="translate(-252.88237,645.23832)"><flowRegion
      id="flowRegion785-4"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;"><rect
        id="rect787-8"
-       width="254.62445"
-       height="78.421356"
+       width="122.62445"
+       height="79.421356"
        x="844.28546"
        y="329.09424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
      id="flowPara789-0">+ Hired by Vemory, an Austin startup, to build advanced Android video editor</flowPara><flowPara
      id="flowPara395">+ Create Android video compositor playback system</flowPara></flowRoot><flowRoot
    xml:space="preserve"
@@ -1125,7 +1107,7 @@
    xml:space="preserve"
    id="flowRoot783-5"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(6.624963,648.15705)"><flowRegion
+   transform="translate(74.624963,542.15705)"><flowRegion
      id="flowRegion785-39"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect787-9"
@@ -1138,30 +1120,29 @@
      id="flowPara403">- Begin interactive Javascript/Single Page Application development</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot783-4-7"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-667.91461,885.45515)"
-   sodipodi:insensitive="true"><flowRegion
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-603.91461,678.45515)"><flowRegion
      id="flowRegion785-4-6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect787-8-2"
-       width="360.62445"
-       height="141.42136"
+       width="148.62445"
+       height="78.421356"
        x="844.28546"
        y="329.09424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara789-0-8">Start leading development projects</flowPara></flowRoot><flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara789-0-8">Start leading development project teams</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot783-2-6"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-551.70624,787.54159)"><flowRegion
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+   transform="translate(-665.70624,466.54159)"><flowRegion
      id="flowRegion785-3-0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;"><rect
        id="rect787-6-3"
        width="161.62445"
        height="99.421356"
        x="844.28546"
        y="329.09424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
      id="flowPara789-4-6">Begin professional Flash/Actionscript 3 interactive development</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot783-4-1-9"
@@ -1215,7 +1196,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
      id="flowPara789-0-3-6-6">Graduate University of MN, BS Computer Science With Honors</flowPara></flowRoot><path
    style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M 133.69343,824.72584 V 985.94618"
+   d="M 133.69343,834.72584 V 995.94618"
    id="path940"
    inkscape:connector-curvature="0" />
 
@@ -2158,142 +2139,386 @@
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="190.96245"
-   y="1036.3772"
+   x="183.96245"
+   y="1266.3772"
    id="text381"><tspan
      sodipodi:role="line"
      id="tspan379"
-     x="190.96245"
-     y="1036.3772">+---+---+---+---+---+---+---+---+---+---+</tspan></text>
+     x="183.96245"
+     y="1266.3772">+---+---+---+---+---+---+---+---+---+---+</tspan></text>
+<g
+   id="g809"
+   transform="translate(21,18)"><g
+     transform="translate(-49,-87)"
+     id="text381-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     aria-label="+---+---+---+---+---+---+---+---+---+---+"><path
+       inkscape:connector-curvature="0"
+       id="path597"
+       d="m 222.79317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path599"
+       d="m 237.48067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path601"
+       d="m 252.16817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path605"
+       d="m 281.54317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path607"
+       d="m 296.23067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path609"
+       d="m 310.91817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path613"
+       d="m 340.29317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path615"
+       d="m 354.98067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path617"
+       d="m 369.66817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path621"
+       d="m 399.04317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path623"
+       d="m 413.73067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path625"
+       d="m 428.41817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path629"
+       d="m 457.79317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path631"
+       d="m 472.48067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path633"
+       d="m 487.16817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path637"
+       d="m 516.54317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path639"
+       d="m 531.23067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path641"
+       d="m 545.91817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path645"
+       d="m 575.29317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path647"
+       d="m 589.98067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path649"
+       d="m 604.66817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path653"
+       d="m 634.04317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path655"
+       d="m 648.73067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path657"
+       d="m 663.41817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path661"
+       d="m 692.79317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path663"
+       d="m 707.48067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path665"
+       d="m 722.16817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path669"
+       d="m 751.54317,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path671"
+       d="m 766.23067,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><path
+       inkscape:connector-curvature="0"
+       id="path673"
+       d="m 780.91817,989.42539 h -7.78646 v -2.13541 h 7.78646 z" /><text
+       transform="rotate(-90)"
+       id="text385"
+       y="207.02209"
+       x="-1002.4816"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="207.02209"
+         x="-1002.4816"
+         id="tspan383"
+         sodipodi:role="line">2008</tspan></text>
 <text
+       transform="rotate(-90)"
+       id="text385-1"
+       y="264.61395"
+       x="-1005.5296"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="264.61395"
+         x="-1005.5296"
+         id="tspan383-4"
+         sodipodi:role="line">2009</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-0"
+       y="325.65399"
+       x="-1002.5696"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="325.65399"
+         x="-1002.5696"
+         id="tspan383-4-4"
+         sodipodi:role="line">2010</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-5"
+       y="384.53397"
+       x="-1002.4496"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="384.53397"
+         x="-1002.4496"
+         id="tspan383-4-1"
+         sodipodi:role="line">2011</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-2"
+       y="441.62192"
+       x="-1002.5376"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="441.62192"
+         x="-1002.5376"
+         id="tspan383-4-9"
+         sodipodi:role="line">2012</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-55"
+       y="502.58194"
+       x="-1005.4976"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="502.58194"
+         x="-1005.4976"
+         id="tspan383-4-6"
+         sodipodi:role="line">2013</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-06"
+       y="558.77393"
+       x="-1005.6896"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="558.77393"
+         x="-1005.6896"
+         id="tspan383-4-8"
+         sodipodi:role="line">2014</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-8"
+       y="617.5979"
+       x="-1002.5136"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="617.5979"
+         x="-1002.5136"
+         id="tspan383-4-47"
+         sodipodi:role="line">2015</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-9"
+       y="678.67798"
+       x="-1005.5936"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="678.67798"
+         x="-1005.5936"
+         id="tspan383-4-5"
+         sodipodi:role="line">2016</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-4"
+       y="739.64594"
+       x="-1002.5616"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="739.64594"
+         x="-1002.5616"
+         id="tspan383-4-62"
+         sodipodi:role="line">2017</tspan></text>
+<text
+       transform="rotate(-90)"
+       id="text385-1-7"
+       y="797.65393"
+       x="-1006.5696"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="797.65393"
+         x="-1006.5696"
+         id="tspan383-4-89"
+         sodipodi:role="line">2018</tspan></text>
+</g></g><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-918.65735"
-   y="194.41858"
-   id="text385"
+   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66666667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+   x="-963.91663"
+   y="124.91663"
+   id="text813"
    transform="rotate(-90)"><tspan
      sodipodi:role="line"
-     id="tspan383"
-     x="-918.65735"
-     y="194.41858">2008</tspan></text>
+     id="tspan811"
+     x="-963.91663"
+     y="124.91663">The boring stuff</tspan></text>
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-877.70532"
-   y="226.01045"
-   id="text385-1"
+   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   x="-976.79163"
+   y="149.79163"
+   id="text817"
    transform="rotate(-90)"><tspan
      sodipodi:role="line"
-     id="tspan383-4"
-     x="-877.70532"
-     y="226.01045">2009</tspan></text>
-<text
+     id="tspan815"
+     x="-976.79163"
+     y="149.79163">The interesting stuff</tspan></text>
+<flowRoot
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-922.74536"
-   y="250.05046"
-   id="text385-1-0"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-4"
-     x="-922.74536"
-     y="250.05046">2010</tspan></text>
-<text
+   id="flowRoot819"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-12,30)"><flowRegion
+     id="flowRegion821"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect823"
+       width="96"
+       height="179"
+       x="26"
+       y="826"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara989">Graduate College</flowPara><flowPara
+     id="flowPara993">w/ B.S. Computer Science</flowPara><flowPara
+     id="flowPara995" /><flowPara
+     id="flowPara827">First job as full time Test Engineer</flowPara><flowPara
+     id="flowPara997" /><flowPara
+     id="flowPara829">Move to dev doing C#/WinForms</flowPara></flowRoot><path
+   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="M 57,843 H 70"
+   id="path851"
+   inkscape:connector-curvature="0" /><flowRoot
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-949.62531"
-   y="332.93045"
-   id="text385-1-5"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-1"
-     x="-949.62531"
-     y="332.93045">2011</tspan></text>
-<text
+   id="flowRoot783-4-7-1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-550.05401,502.49292)"><flowRegion
+     id="flowRegion785-4-6-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect787-8-2-0"
+       width="107.62445"
+       height="65.421356"
+       x="844.28546"
+       y="329.09424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara789-0-8-3">First large-scale Android app. This is where it all begins.</flowPara></flowRoot><flowRoot
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-940.71332"
-   y="280.01843"
-   id="text385-1-2"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-9"
-     x="-940.71332"
-     y="280.01843">2012</tspan></text>
-<text
+   id="flowRoot783-2-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-313.83519,460.94825)"><flowRegion
+     id="flowRegion785-3-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect787-6-9"
+       width="85.528198"
+       height="80.167084"
+       x="844.28546"
+       y="329.09424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara401-8">WeaRSS Android Wear app released</flowPara></flowRoot><line
+   stroke-miterlimit="10"
+   x1="289.44421"
+   y1="839.77344"
+   x2="289.44421"
+   y2="896.42542"
+   id="line402-0"
+   style="fill:none;stroke:#555555;stroke-width:0.5490036;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="409"
+   y1="808.17468"
+   x2="409"
+   y2="891.82532"
+   id="line358-4"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="470"
+   y1="943.17468"
+   x2="470"
+   y2="1026.8253"
+   id="line358-2"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="525"
+   y1="814.17468"
+   x2="525"
+   y2="897.82532"
+   id="line358-2-5"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="583"
+   y1="938.17468"
+   x2="583"
+   y2="1021.8253"
+   id="line358-2-9"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="649"
+   y1="815.17468"
+   x2="649"
+   y2="898.82532"
+   id="line358-2-8"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="728.31995"
+   y1="950.5351"
+   x2="728.31995"
+   y2="1034.1857"
+   id="line358-2-8-7"
+   style="fill:none;stroke:#555555;stroke-width:0.66712278;stroke-miterlimit:10" /><line
+   stroke-miterlimit="10"
+   x1="353.55338"
+   y1="940.63556"
+   x2="353.55338"
+   y2="997.41608"
+   id="line358-2-86"
+   style="fill:none;stroke:#555555;stroke-width:0.5496307;stroke-miterlimit:10" /><flowRoot
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-924.67334"
-   y="297.97842"
-   id="text385-1-55"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-6"
-     x="-924.67334"
-     y="297.97842">2013</tspan></text>
-<text
+   id="flowRoot783-4-7-1-7"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-486.85347,625.84541)"><flowRegion
+     id="flowRegion785-4-6-2-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect787-8-2-0-9"
+       width="107.62445"
+       height="65.421356"
+       x="844.28546"
+       y="329.09424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara789-0-8-3-2">Lead dev effort for Nike app...only to be canned last minute</flowPara></flowRoot><flowRoot
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-852.86536"
-   y="334.17041"
-   id="text385-1-06"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-8"
-     x="-852.86536"
-     y="334.17041">2014</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-872.68933"
-   y="353.99442"
-   id="text385-1-8"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-47"
-     x="-872.68933"
-     y="353.99442">2015</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-912.76935"
-   y="334.07443"
-   id="text385-1-9"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-5"
-     x="-912.76935"
-     y="334.07443">2016</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-852.7373"
-   y="412.04242"
-   id="text385-1-4"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-62"
-     x="-852.7373"
-     y="412.04242">2017</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="-892.74536"
-   y="414.05042"
-   id="text385-1-7"
-   transform="rotate(-90)"><tspan
-     sodipodi:role="line"
-     id="tspan383-4-89"
-     x="-892.74536"
-     y="414.05042">2018</tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   x="196.88171"
-   y="995.45404"
-   id="text381-3"><tspan
-     sodipodi:role="line"
-     id="tspan379-0"
-     x="196.88171"
-     y="995.45404">+---+---+---+---+---+---+---+---+---+---+</tspan></text>
+   id="flowRoot783-4-7-1-7-3"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-430.44896,477.28276)"><flowRegion
+     id="flowRegion785-4-6-2-3-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect787-8-2-0-9-3"
+       width="107.62445"
+       height="65.421356"
+       x="844.28546"
+       y="329.09424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara789-0-8-3-2-7">Virgin Mobile android app installed on every new device</flowPara></flowRoot><text
+   font-size="11"
+   id="text474-0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="706.11243"
+   y="711.1756">Myself</text>
 </svg>
