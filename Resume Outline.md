@@ -34,51 +34,36 @@ http://creativedrewy.com/highlight/5 [Javascript an honest preview]
 
 # Development Experience Timeline:
 
+### More
+
+- Want to know more? Lots more detail on my LinkedIn profile referenced above.
+
 The Interesting Stuff
 =====================
 
+### 2017
+
 ### 2016
-Successful startup exit as Vemory aquired by GoPro
-Contribute to GoPro Android projects
 
 ### 2015
-Hired by Vemory, an Austin startup, to build advanced Android video editor
-Create Android video compositor playback system
 
 ### 2014
-WeaRSS Android Wear app released
-Xamarin/MVVM development
-AngularJS development
 Mentor fellow Android developers
 
 ### 2012
-Select Input Quick! (Android Widget) released
 
 ### 2010
-First learn Android development on a large-scale application
-Begin interactive Javascript/Single Page Application development
 
 ### 2009
-Start leading development projects
 
 ### 2008
-Begin professional Flash/Actionscript 3 interactive development
 
 The Boring Stuff
 ================
 
-### 2006
-Move to Software developer working on C# WinForm/MS SQL-backed application development
+### 2002 - 2007
 
-### 2003
-Hired as a full-time Software Test Engineer
 
-### 2002
-Graduate University of MN, BS Computer Science With Honors
-
-### More
-
-- Want to know more? Lots more detail on my LinkedIn profile referenced above.
 
 # Programming Languages:
 
