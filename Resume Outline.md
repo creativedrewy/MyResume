@@ -23,14 +23,14 @@
 # Highlights:
 
 - My Android Wear app - WeaRSS - was featured as "Hand-Picked for Wear" in the Play Store. At the time I got some other good internet coverage too:         
-http://creativedrewy.com/highlight/1
+http://creativedrewy.com/highlight/1 [http://creativedrewy.blogspot.com/2015/02/wearss-internet-coverage.html]
 - A couple apps for which I was lead developer:
-http://creativedrewy.com/highlight/2<br/>
+http://creativedrewy.com/highlight/2 [https://play.google.com/store/apps/details?id=com.trunkclub.member]<br/>
 http://creativedrewy.com/highlight/3 [https://www.youtube.com/watch?v=icarsdl0eug]
 - My somewhat-contrived Android app with all the latest toys:
 http://creativedrewy.com/highlight/4 [https://github.com/creativedrewy/AmIAlive]
 - I've done enough Javascript development over the years that I felt compelled to make this video:
-http://creativedrewy.com/highlight/5 [Javascript an honest preview]
+http://creativedrewy.com/highlight/5 [https://www.youtube.com/watch?v=JEpY9C49sqU]
 
 # Development Experience Timeline:
 
