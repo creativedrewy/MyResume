@@ -88,14 +88,14 @@
    inkscape:window-height="762"
    id="namedview571"
    showgrid="false"
-   inkscape:zoom="0.93646895"
-   inkscape:cx="452.9225"
-   inkscape:cy="730.53341"
+   inkscape:zoom="1.3243671"
+   inkscape:cx="237.58436"
+   inkscape:cy="641.46671"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g4773"
-   showguides="true"
+   inkscape:current-layer="Layer_1"
+   showguides="false"
    inkscape:guide-bbox="true"
    units="in"
    inkscape:document-units="in"
@@ -2624,8 +2624,8 @@
    y1="245.27295"
    x1="24.141468"
    stroke-miterlimit="10" /><text
-   y="264.40308"
-   x="24.278252"
+   y="264.02783"
+   x="22.49972"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;display:inline;fill:#b22525;stroke-width:1.33424556"
    id="text214"
    font-size="12">+</text>
@@ -2635,8 +2635,8 @@
 
 
 <text
-   y="375.82346"
-   x="24.278252"
+   y="374.96747"
+   x="22.49972"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text216"
    font-size="12">+</text>
@@ -2646,8 +2646,8 @@
 
 
 <text
-   y="310.31146"
-   x="24.278252"
+   y="309.59369"
+   x="22.49972"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text218"
    font-size="12">+</text>
@@ -2657,8 +2657,8 @@
 
 
 <text
-   y="441.19519"
-   x="24.278252"
+   y="440.29333"
+   x="22.49972"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text220"
    font-size="12">+</text>
@@ -2671,15 +2671,15 @@
    inkscape:label="need_to_know_4"
    id="text353"
    y="441.70193"
-   x="41.47279"
+   x="37.47279"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
    xml:space="preserve"><tspan
      id="tspan351"
      y="441.70193"
-     x="41.47279"
+     x="37.47279"
      sodipodi:role="line">I love keeping up with the latest programming technologies and </tspan><tspan
      y="461.70193"
-     x="41.47279"
+     x="37.47279"
      sodipodi:role="line"
      id="tspan5270">frameworks, not just in Android dev. If it's cool, I'm probably interested.</tspan></text>
 
@@ -2690,22 +2690,22 @@
 <text
    inkscape:label="need_to_know_3"
    id="text343"
-   y="310.79193"
-   x="43.058567"
+   y="311.00229"
+   x="36.640789"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
    xml:space="preserve"><tspan
      id="tspan341"
-     y="310.79193"
-     x="43.058567"
+     y="311.00229"
+     x="36.640789"
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">I'm super passionate about excellent application architecture, </tspan><tspan
-     y="330.79193"
-     x="43.058567"
+     y="331.00229"
+     x="36.640789"
      sodipodi:role="line"
      id="tspan5266"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">maintainability, and code quality. I do it for my own sanity; I have the </tspan><tspan
-     y="350.79193"
-     x="43.058567"
+     y="351.00229"
+     x="36.640789"
      sodipodi:role="line"
      id="tspan5274"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">most fun when I'm working in a quality code base.</tspan></text>
@@ -2717,20 +2717,20 @@
 <text
    inkscape:label="need_to_know_2"
    id="text329"
-   y="376.35242"
-   x="41.256599"
+   y="376.56808"
+   x="36.880791"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
    xml:space="preserve"><tspan
      id="tspan327"
-     y="376.35242"
-     x="41.256599"
+     y="376.56808"
+     x="36.880791"
      sodipodi:role="line">I've been a lead developer for years. I've successfully led countless projects </tspan><tspan
-     y="396.35242"
-     x="41.256599"
+     y="396.56808"
+     x="36.880791"
      sodipodi:role="line"
      id="tspan5262">involving multiple and varied programming languages, frameworks, and </tspan><tspan
-     y="416.35242"
-     x="41.256599"
+     y="416.56808"
+     x="36.880791"
      sodipodi:role="line"
      id="tspan5276">platforms. My team size was usually 1 to 8 developers.</tspan></text>
 
@@ -2741,17 +2741,17 @@
 <text
    inkscape:label="need_to_know_1"
    id="text313"
-   y="265.62842"
-   x="42.559536"
+   y="265.62845"
+   x="37.20079"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
    xml:space="preserve"><tspan
      id="tspan358"
-     y="265.62842"
-     x="42.559536"
+     y="265.62845"
+     x="37.20079"
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">I've been working with the Android platform since 2010. I've successfully </tspan><tspan
-     y="285.62842"
-     x="42.559536"
+     y="285.62845"
+     x="37.20079"
      sodipodi:role="line"
      id="tspan5272"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">developed and led multiple consumer-facing, high-rated Play Store apps.</tspan></text>
