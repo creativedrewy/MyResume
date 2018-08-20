@@ -88,9 +88,9 @@
    inkscape:window-height="762"
    id="namedview571"
    showgrid="false"
-   inkscape:zoom="2.6487342"
-   inkscape:cx="271.85308"
-   inkscape:cy="90.361282"
+   inkscape:zoom="3.7458758"
+   inkscape:cx="387.06436"
+   inkscape:cy="77.858387"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -2412,7 +2412,7 @@
    xml:space="preserve"
    id="flowRoot783-4-7-1-7"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(150.05931,610.22296)"><flowRegion
+   transform="translate(-492.12447,615.49406)"><flowRegion
      id="flowRegion785-4-6-2-3"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect787-8-2-0-9"
@@ -2471,7 +2471,7 @@
 
 </g><g
    id="g2877-5-4-2-5-1"
-   transform="matrix(0.82459159,0,0,0.82459159,520.57988,327.28417)"><rect
+   transform="matrix(0.82459159,0,0,0.82459159,-123.62523,332.20747)"><rect
    x="551"
    y="745.51141"
    stroke-miterlimit="10"
@@ -2743,6 +2743,6 @@
    x1="349.12366"
    y1="938.91089"
    x2="349.12366"
-   y2="1032"
+   y2="1000.2318"
    id="line358-3-9-7"
-   style="fill:#800080;stroke:#555555;stroke-width:1.01271212;stroke-miterlimit:10;stroke-dasharray:none" /></svg>
+   style="fill:#800080;stroke:#555555;stroke-width:0.82194096;stroke-miterlimit:10;stroke-dasharray:none" /></svg>
