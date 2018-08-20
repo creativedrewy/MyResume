@@ -88,14 +88,14 @@
    inkscape:window-height="762"
    id="namedview571"
    showgrid="false"
-   inkscape:zoom="0.66218355"
-   inkscape:cx="310.73949"
-   inkscape:cy="378.78042"
+   inkscape:zoom="0.46823448"
+   inkscape:cx="277.68412"
+   inkscape:cy="494.39145"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1"
-   showguides="false"
+   showguides="true"
    inkscape:guide-bbox="true"
    units="in"
    inkscape:document-units="in"
@@ -279,7 +279,20 @@
 
 
 
-<g
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot2671"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-0.499422,-1.3811528)"><flowRegion
+     id="flowRegion2673"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+       id="rect2675"
+       width="90.899292"
+       height="125.09075"
+       x="707.50775"
+       y="804.52344"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+     id="flowPara2677">New features, refactor tech-debt, kotlin-convert, write unit &amp; UI tests on Yammer Android</flowPara></flowRoot><g
    id="g2443"
    inkscape:label="main_timeline_group"><g
      transform="translate(-4.121761,-0.20020575)"
@@ -997,7 +1010,7 @@
        y="777.03827"
        x="553.21783"
        id="tspan1957"
-       sodipodi:role="line">For lots more work info, see my LinkedIn profile </tspan></text>
+       sodipodi:role="line">For lots more work info see my LinkedIn profile </tspan></text>
 <g
      sodipodi:insensitive="true"
      transform="translate(-4.1230635,1.1382747)"
@@ -1304,7 +1317,8 @@
 
 <g
    id="g1830"
-   transform="translate(-7.221103,-4.9791695)"><g
+   transform="translate(-7.221103,-4.9791695)"
+   inkscape:label="timeline_content_middle"><g
      id="g1955"><path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 150.35413,834.72584 V 995.94618"
@@ -1347,7 +1361,8 @@
 
 <g
    id="g1948"
-   transform="translate(164,-5.4569295)"><g
+   transform="translate(164,-5.4569295)"
+   inkscape:label="timeline_content_boring"><g
      transform="translate(-165.15325,7.3479885)"
      id="g2738"><text
    font-size="11"
@@ -1442,29 +1457,6 @@
            y="871.79742"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3388">Start career as full time Test Engineer, move to C#/SQL/WinForm App dev</flowPara></flowRoot></g></g><flowRoot
-   xml:space="preserve"
-   id="flowRoot1372"
-   style="fill:black;fill-opacity:1;stroke:none;font-family:'Source Sans Pro';font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Source Sans Pro, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
-     id="flowRegion1374"><rect
-       id="rect1376"
-       width="27.182796"
-       height="47.569893"
-       x="558.00238"
-       y="1086.2031" /></flowRegion><flowPara
-     id="flowPara1378" /></flowRoot><flowRoot
-   xml:space="preserve"
-   id="flowRoot1388"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-213.56893,-18.403592)"><flowRegion
-     id="flowRegion1390"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-       id="rect1392"
-       width="117.7921"
-       height="64.181595"
-       x="801.89246"
-       y="869.49579"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara1394" /></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot783-4-7"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
