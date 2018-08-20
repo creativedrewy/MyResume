@@ -34,51 +34,57 @@ http://creativedrewy.com/highlight/5 [Javascript an honest preview]
 
 # Development Experience Timeline:
 
+### More
+
+For lots more work info see my LinkedIn profile 
+
 The Interesting Stuff
 =====================
 
+### 2017
+
+New features, refactor tech-debt, kotlin-convert, write unit & UI tests on Yammer Android
+
 ### 2016
-Successful startup exit as Vemory aquired by GoPro
-Contribute to GoPro Android projects
+
+Successful exit w/ Vemory acquired by GoPro, join the GoPro Android dev efforts 
 
 ### 2015
-Hired by Vemory, an Austin startup, to build advanced Android video editor
-Create Android video compositor playback system
+
+Hired by startup Vemory to build advanced Android video editor, start using Kotlin professionally
 
 ### 2014
-WeaRSS Android Wear app released
-Xamarin/MVVM development
-AngularJS development
-Mentor fellow Android developers
+
+Release my Android Wear app - WeaRSS.
+Included in I/O 2015 keynote!
 
 ### 2012
-Select Input Quick! (Android Widget) released
+
+Implement Virgin Mobile Android app to be installed on every new VM device to be released
+
+### 2011
+
+Lead the dev effort for a cool Android app for Nike, only to have it canned before release
 
 ### 2010
-First learn Android development on a large-scale application
-Begin interactive Javascript/Single Page Application development
+
+First large-scale Android app. This is where it all begins.
 
 ### 2009
-Start leading development projects
+
+Start leading development projects & teams
 
 ### 2008
+
 Begin professional Flash/Actionscript 3 interactive development
 
 The Boring Stuff
 ================
 
-### 2006
-Move to Software developer working on C# WinForm/MS SQL-backed application development
+### 2002 - 2007
 
-### 2003
-Hired as a full-time Software Test Engineer
-
-### 2002
-Graduate University of MN, BS Computer Science With Honors
-
-### More
-
-- Want to know more? Lots more detail on my LinkedIn profile referenced above.
+Graduate w/ B.S. Computer Science
+Start career as full time Test Engineer, move to C#/SQL/WinForm App dev
 
 # Programming Languages:
 
