@@ -21,7 +21,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata575"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs573">
 
 
@@ -63,8 +63,8 @@
    id="namedview571"
    showgrid="false"
    inkscape:zoom="0.93646895"
-   inkscape:cx="346.75302"
-   inkscape:cy="93.559659"
+   inkscape:cx="228.09061"
+   inkscape:cy="102.87114"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -370,6 +370,7 @@
 
 
 
+
 <rect
    style="fill:none;stroke-width:1.33424556"
    id="rect232"
@@ -402,6 +403,7 @@
    x="558.03955"
    y="681.78491"
    sodipodi:insensitive="true">Timeline Key - Employer:</text>
+
 
 
 
@@ -643,6 +645,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot783-4"
@@ -722,6 +725,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot783-4-1-9-3"
@@ -758,6 +762,7 @@
    class="title"
    id="text260-9"
    style="font-size:26.68491173px;font-family:BebasNeueBold, Oswald;text-transform:uppercase;fill:#b22525;stroke-width:1.33424556">Other Dev I've Done:</text>
+
 
 
 
@@ -817,6 +822,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -866,6 +872,7 @@
 
 
 
+
 </g><g
    id="g5078"
    inkscape:label="section_dev_stack"
@@ -876,6 +883,7 @@
    class="title"
    id="text260"
    style="font-size:26.68491173px;font-family:BebasNeueBold, Oswald;text-transform:uppercase;fill:#b22525;stroke-width:1.33424556">My Android Dev Stack:</text>
+
 
 
 
@@ -957,6 +965,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1028,6 +1037,7 @@
 
 
 
+
 </g><g
    id="g4905"
    inkscape:label="section_languages"
@@ -1041,6 +1051,7 @@
 
 
 
+
 <text
    inkscape:label="language_java"
    y="294.72"
@@ -1048,6 +1059,7 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text102"
    font-size="12">Java</text>
+
 
 
 
@@ -1060,12 +1072,14 @@
 
 
 
+
 <text
    y="341.25867"
    x="551.96802"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text108"
    font-size="12">Typescript</text>
+
 
 
 
@@ -1078,12 +1092,14 @@
 
 
 
+
 <text
    y="366.72"
    x="551.776"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text112"
    font-size="12">Swift</text>
+
 
 
 
@@ -1297,6 +1313,7 @@
 
 
 
+
 <text
    inkscape:label="link_2"
    y="607.5343"
@@ -1318,6 +1335,7 @@
 
 
 
+
 <text
    inkscape:label="link_3"
    y="674.71118"
@@ -1326,6 +1344,7 @@
    id="text64"
    text-decoration=" underline"
    font-size="12">http://creativedrewy.com/highlight/4</text>
+
 
 
 
@@ -1346,6 +1365,7 @@
 
 
 
+
 <line
    style="fill:none;stroke:#333333;stroke-width:0.66712278;stroke-miterlimit:10"
    id="line212"
@@ -1362,12 +1382,14 @@
 
 
 
+
 <text
    y="589.42688"
    x="24.278252"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text224"
    font-size="12">+</text>
+
 
 
 
@@ -1380,12 +1402,14 @@
 
 
 
+
 <text
    y="701.87848"
    x="24.278252"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text228"
    font-size="12">+</text>
+
 
 
 
@@ -1397,6 +1421,7 @@
    id="text560"
    text-decoration=" underline"
    font-size="12">http://creativedrewy.com/highlight/5</text>
+
 
 
 
@@ -1418,6 +1443,7 @@
 
 
 
+
 <text
    inkscape:label="highlight_3"
    id="text380"
@@ -1435,6 +1461,7 @@
 
 
 
+
 <text
    inkscape:label="highlight_2"
    id="text374"
@@ -1449,6 +1476,7 @@
    id="tspan370"
    y="590.29016"
    x="41.231995" /></tspan></text>
+
 
 
 
@@ -1470,6 +1498,7 @@
 
 
 
+
 </g><g
    id="g4807"
    inkscape:label="section_need_to_know"
@@ -1480,6 +1509,7 @@
    id="text50"
    class="title"
    font-size="22">What You Need To Know</text>
+
 
 
 
@@ -1523,12 +1553,14 @@
 
 
 
+
 <text
    y="375.82346"
    x="24.278252"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text216"
    font-size="12">+</text>
+
 
 
 
@@ -1541,12 +1573,14 @@
 
 
 
+
 <text
    y="441.19519"
    x="24.278252"
    style="font-size:16.01094818px;font-family:SourceSansPro-Black;fill:#b22525;stroke-width:1.33424556"
    id="text220"
    font-size="12">+</text>
+
 
 
 
@@ -1565,6 +1599,7 @@
      x="41.47279"
      sodipodi:role="line"
      id="tspan5270">frameworks, not just in Android dev. If it's cool, I'm probably interested.</tspan></text>
+
 
 
 
@@ -1593,6 +1628,7 @@
 
 
 
+
 <text
    inkscape:label="need_to_know_2"
    id="text329"
@@ -1612,6 +1648,7 @@
      x="41.256599"
      sodipodi:role="line"
      id="tspan5276">platforms. My team size was usually 1 to 8 developers.</tspan></text>
+
 
 
 
@@ -1635,6 +1672,7 @@
 
 
 
+
 </g><g
    id="g4773"
    inkscape:label="section_header"><text
@@ -1643,6 +1681,7 @@
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:18.67943764px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text4"
    font-size="14">creativedrewy@gmail.com</text>
+
 
 
 
@@ -1655,12 +1694,14 @@
 
 
 
+
 <text
    y="103.17717"
    x="205.85718"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.01642036px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text8"
    font-size="18">Senior Android Developer</text>
+
 
 
 
@@ -1673,12 +1714,14 @@
 
 
 
+
 <text
    y="93.129883"
    x="588.84277"
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:18.67943764px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text12"
    font-size="14">github.com/creativedrewy</text>
+
 
 
 
@@ -1691,12 +1734,14 @@
 
 
 
+
 <text
    y="176.89421"
    x="588.84277"
    style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:18.67943764px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text16"
    font-size="14">/in/creativedrewy</text>
+
 
 
 
@@ -1760,6 +1805,7 @@
    id="text2"
    class="title"
    font-size="38">Andrew Watson</text>
+
 
 
 
@@ -1917,6 +1963,7 @@
      x="-935.52563"
      y="199.02209">2008</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1928,6 +1975,7 @@
      id="tspan383-4"
      x="-935.4856"
      y="258.08527">2009</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -1941,6 +1989,7 @@
      x="-935.52563"
      y="317.14847">2010</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1952,6 +2001,7 @@
      id="tspan383-4-1"
      x="-935.40558"
      y="376.21167">2011</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -1965,6 +2015,7 @@
      x="-935.49359"
      y="435.27484">2012</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1976,6 +2027,7 @@
      id="tspan383-4-6"
      x="-935.45361"
      y="494.33801">2013</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -1989,6 +2041,7 @@
      x="-935.64563"
      y="553.40118">2014</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2000,6 +2053,7 @@
      id="tspan383-4-47"
      x="-935.4696"
      y="612.46442">2015</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -2013,6 +2067,7 @@
      x="-935.54962"
      y="671.52759">2016</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2025,6 +2080,7 @@
      x="-935.51758"
      y="730.59076">2017</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2036,6 +2092,7 @@
      id="tspan383-4-89"
      x="-935.52563"
      y="789.65393">2018</tspan></text>
+
 
 </g>
 <g
@@ -2056,6 +2113,7 @@
      id="tspan811"
      sodipodi:role="line">The boring stuff</tspan></text>
 
+
 <text
    transform="rotate(-90)"
    id="text817"
@@ -2068,21 +2126,9 @@
      id="tspan815"
      sodipodi:role="line">The interesting stuff</tspan></text>
 
+
 </g>
 <flowRoot
-   xml:space="preserve"
-   id="flowRoot819"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-2.5339217,137.30922)"><flowRegion
-     id="flowRegion821"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-       id="rect823"
-       width="96"
-       height="179"
-       x="26"
-       y="826"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara829">Begin dev on C#/WinForms apps</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot783-4-7-1"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2142,12 +2188,13 @@
    id="path2413"
    inkscape:connector-curvature="0" /><g
    id="g2738"
-   transform="translate(-1.7286357,3.3480133)"><text
+   transform="translate(-1.7286357,7.3480133)"><text
    y="847.44641"
    x="25.611567"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text18"
    font-size="11">2002</text>
+
 
 <text
    y="847.44641"
@@ -2155,6 +2202,7 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
    id="text22"
    font-size="11">2007</text>
+
 
 <path
    d="m 66.002567,843.84689 h -7.78646 v -2.13541 h 7.78646 z"
@@ -2167,6 +2215,7 @@
    x="581.16754"
    y="706.79523"
    sodipodi:insensitive="true">Education</text>
+
 
 <g
    id="g2867"
@@ -2190,6 +2239,7 @@
      id="tspan2825"
      sodipodi:role="line">E</tspan></text>
 
+
 </g><text
    font-size="11"
    id="text304"
@@ -2197,6 +2247,7 @@
    x="581.16754"
    y="730.54749"
    sodipodi:insensitive="true">Kroll Ontrack</text>
+
 
 <g
    id="g2872"
@@ -2220,6 +2271,7 @@
      id="tspan2829"
      sodipodi:role="line">K</tspan></text>
 
+
 </g><text
    font-size="11"
    id="text302"
@@ -2227,6 +2279,7 @@
    x="582.07751"
    y="752.85413"
    sodipodi:insensitive="true">The Nerdery</text>
+
 
 <g
    id="g2877"
@@ -2250,6 +2303,7 @@
      id="tspan2833"
      sodipodi:role="line">N</tspan></text>
 
+
 </g><text
    font-size="11"
    id="text494"
@@ -2257,6 +2311,7 @@
    x="701.1236"
    y="729.0871"
    sodipodi:insensitive="true">GoPro/Vemory</text>
+
 
 <g
    id="g2897"
@@ -2280,6 +2335,7 @@
      id="tspan2841"
      sodipodi:role="line">G</tspan></text>
 
+
 </g><text
    font-size="11"
    id="text474"
@@ -2287,6 +2343,7 @@
    x="700.06586"
    y="754.38776"
    sodipodi:insensitive="true">Microsoft</text>
+
 
 <g
    id="g2902"
@@ -2310,6 +2367,7 @@
      id="tspan2845"
      sodipodi:role="line">M</tspan></text>
 
+
 </g><text
    font-size="11"
    id="text474-0"
@@ -2317,6 +2375,7 @@
    x="700.56586"
    y="705.43762"
    sodipodi:insensitive="true">Myself</text>
+
 
 <g
    id="g2882"
@@ -2332,6 +2391,7 @@
      x="679.21729"
      id="tspan2806"
      sodipodi:role="line">A</tspan></text>
+
 
 <rect
    x="674.85339"
@@ -2360,6 +2420,7 @@
      id="tspan2825-3"
      sodipodi:role="line">E</tspan></text>
 
+
 </g><g
    id="g2872-2"
    transform="matrix(0.77305462,0,0,0.77305462,-402.19567,357.21779)"><rect
@@ -2379,6 +2440,7 @@
      x="554.75372"
      id="tspan2829-3"
      sodipodi:role="line">K</tspan></text>
+
 
 </g><flowRoot
    xml:space="preserve"
@@ -2402,11 +2464,11 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect3386"
        width="115.32684"
-       height="44.849285"
+       height="78.827797"
        x="-203.95764"
        y="871.79742"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara3388">First job as full time Test Engineer</flowPara></flowRoot><line
+     id="flowPara3388">Start career as full time Test Engineer, move to C#/SQL/WinForm App dev</flowPara></flowRoot><line
    stroke-miterlimit="10"
    x1="192.54482"
    y1="804.64056"
@@ -2432,6 +2494,7 @@
      x="554.71857"
      id="tspan2833-4-3"
      sodipodi:role="line">N</tspan></text>
+
 
 </g><line
    stroke-miterlimit="10"
@@ -2460,6 +2523,7 @@
      id="tspan2833-4-3-3"
      sodipodi:role="line">N</tspan></text>
 
+
 </g><line
    stroke-miterlimit="10"
    x1="429.56512"
@@ -2487,6 +2551,7 @@
      id="tspan2833-4-3-3-6"
      sodipodi:role="line">N</tspan></text>
 
+
 </g><line
    stroke-miterlimit="10"
    x1="547.8089"
@@ -2507,6 +2572,7 @@
      id="tspan2806-5-5"
      sodipodi:role="line">A</tspan></text>
 
+
 <rect
    x="674.85339"
    y="693.85339"
@@ -2524,22 +2590,23 @@
    style="fill:#800080;stroke:#555555;stroke-width:1.01271212;stroke-miterlimit:10;stroke-dasharray:none" /><g
    id="g2877-5-4-2-5"
    transform="matrix(0.82459159,0,0,0.82459159,-220.69372,390.48131)"><rect
-     x="551"
-     y="745.51141"
-     stroke-miterlimit="10"
-     width="17.293158"
-     height="17.293158"
-     id="rect466-5-5-5-7"
-     style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
-     id="text2835-8-4-8-3"
+   x="551"
+   y="745.51141"
+   stroke-miterlimit="10"
+   width="17.293158"
+   height="17.293158"
+   id="rect466-5-5-5-7"
+   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
+   id="text2835-8-4-8-3"
+   y="758.92468"
+   x="554.71857"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
      y="758.92468"
      x="554.71857"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       y="758.92468"
-       x="554.71857"
-       id="tspan2833-4-3-3-4"
-       sodipodi:role="line">N</tspan></text>
+     id="tspan2833-4-3-3-4"
+     sodipodi:role="line">N</tspan></text>
+
 </g><line
    stroke-miterlimit="10"
    x1="372.2533"
@@ -2550,22 +2617,23 @@
    style="fill:#800080;stroke:#555555;stroke-width:0.82986236;stroke-miterlimit:10;stroke-dasharray:none" /><g
    id="g2877-5-4-2-5-1"
    transform="matrix(0.82459159,0,0,0.82459159,-99.420122,327.28417)"><rect
-     x="551"
-     y="745.51141"
-     stroke-miterlimit="10"
-     width="17.293158"
-     height="17.293158"
-     id="rect466-5-5-5-7-1"
-     style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
-     id="text2835-8-4-8-3-5"
+   x="551"
+   y="745.51141"
+   stroke-miterlimit="10"
+   width="17.293158"
+   height="17.293158"
+   id="rect466-5-5-5-7-1"
+   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
+   id="text2835-8-4-8-3-5"
+   y="758.92468"
+   x="554.71857"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
      y="758.92468"
      x="554.71857"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       y="758.92468"
-       x="554.71857"
-       id="tspan2833-4-3-3-4-0"
-       sodipodi:role="line">N</tspan></text>
+     id="tspan2833-4-3-3-4-0"
+     sodipodi:role="line">N</tspan></text>
+
 </g><line
    stroke-miterlimit="10"
    x1="605.12781"
@@ -2576,22 +2644,23 @@
    style="fill:#800080;stroke:#555555;stroke-width:1.09307754;stroke-miterlimit:10;stroke-dasharray:none" /><g
    id="g2897-9-1"
    transform="matrix(0.82459159,0,0,0.82459159,30.829665,187.47907)"><rect
-     x="675"
-     y="729.13013"
-     stroke-miterlimit="10"
-     width="17.293158"
-     height="17.293158"
-     id="rect496-7-4"
-     style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
-     id="text2843-5-2"
+   x="675"
+   y="729.13013"
+   stroke-miterlimit="10"
+   width="17.293158"
+   height="17.293158"
+   id="rect496-7-4"
+   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
+   id="text2843-5-2"
+   y="742.5434"
+   x="678.9826"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
      y="742.5434"
      x="678.9826"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       y="742.5434"
-       x="678.9826"
-       id="tspan2841-5-8"
-       sodipodi:role="line">G</tspan></text>
+     id="tspan2841-5-8"
+     sodipodi:role="line">G</tspan></text>
+
 </g><flowRoot
    xml:space="preserve"
    id="flowRoot1372"
@@ -2602,7 +2671,7 @@
        height="47.569893"
        x="558.00238"
        y="1086.2031" /></flowRegion><flowPara
-     id="flowPara1378"></flowPara></flowRoot><flowRoot
+     id="flowPara1378" /></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot1380"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2619,7 +2688,7 @@
    xml:space="preserve"
    id="flowRoot1388"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-193.16687,-20.014161)"><flowRegion
+   transform="translate(-194.23471,-16.810638)"><flowRegion
      id="flowRegion1390"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect1392"
@@ -2652,22 +2721,23 @@
      id="flowPara1458">Join the GoPro Android dev efforts</flowPara></flowRoot><g
    id="g2897-9-1-3"
    transform="matrix(0.82459159,0,0,0.82459159,92.810804,339.87713)"><rect
-     x="675"
-     y="729.13013"
-     stroke-miterlimit="10"
-     width="17.293158"
-     height="17.293158"
-     id="rect496-7-4-7"
-     style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
-     id="text2843-5-2-6"
+   x="675"
+   y="729.13013"
+   stroke-miterlimit="10"
+   width="17.293158"
+   height="17.293158"
+   id="rect496-7-4-7"
+   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
+   id="text2843-5-2-6"
+   y="742.5434"
+   x="678.9826"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
      y="742.5434"
      x="678.9826"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       y="742.5434"
-       x="678.9826"
-       id="tspan2841-5-8-1"
-       sodipodi:role="line">G</tspan></text>
+     id="tspan2841-5-8-1"
+     sodipodi:role="line">G</tspan></text>
+
 </g><line
    stroke-miterlimit="10"
    x1="724.39807"
@@ -2678,20 +2748,21 @@
    style="fill:#800080;stroke:#555555;stroke-width:1.01271212;stroke-miterlimit:10;stroke-dasharray:none" /><g
    id="g2902-5-8"
    transform="matrix(0.82459159,0,0,0.82459159,150.65645,187.60478)"><rect
-     x="675"
-     y="750.51141"
-     stroke-miterlimit="10"
-     width="17.293158"
-     height="17.293158"
-     id="rect476-2-8"
-     style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
-     id="text2847-7-5"
+   x="675"
+   y="750.51141"
+   stroke-miterlimit="10"
+   width="17.293158"
+   height="17.293158"
+   id="rect476-2-8"
+   style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /><text
+   id="text2847-7-5"
+   y="763.92468"
+   x="677.95593"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
      y="763.92468"
      x="677.95593"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       y="763.92468"
-       x="677.95593"
-       id="tspan2845-1-0"
-       sodipodi:role="line">M</tspan></text>
+     id="tspan2845-1-0"
+     sodipodi:role="line">M</tspan></text>
+
 </g></svg>
