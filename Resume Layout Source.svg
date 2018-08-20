@@ -49,6 +49,10 @@
 
 	
 	
+
+
+
+
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -63,8 +67,8 @@
    id="namedview571"
    showgrid="false"
    inkscape:zoom="0.93646895"
-   inkscape:cx="172.97348"
-   inkscape:cy="127.28063"
+   inkscape:cx="361.78639"
+   inkscape:cy="219.59602"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -1745,7 +1749,8 @@
 
 </g>
 <g
-   id="g3364"><g
+   id="g3364"
+   transform="translate(-22.000011)"><g
    transform="translate(17.87825,-0.20020575)"
    id="g2523"><path
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2030,66 +2035,42 @@
 
 </g>
 <g
-   id="g2733"
-   transform="translate(16)"><path
-   inkscape:connector-curvature="0"
-   id="path940"
-   d="M 133.68748,834.72584 V 995.94618"
-   style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
-   transform="rotate(-90)"
-   id="text813"
-   y="124.91663"
-   x="-962.00958"
-   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   xml:space="preserve"><tspan
-     y="124.91663"
-     x="-962.00958"
-     id="tspan811"
-     sodipodi:role="line">The boring stuff</tspan></text>
-
-
+   id="g1830"
+   transform="translate(-7.221103,-4.9791695)"
+   sodipodi:insensitive="true"><g
+     id="g1955"><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 150.35413,834.72584 V 995.94618"
+       id="path940"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-953.5235"
+       y="144.91663"
+       id="text813"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan811"
+         x="-953.5235"
+         y="144.91663">The boring stuff</tspan></text>
 <text
-   transform="rotate(-90)"
-   id="text817"
-   y="149.79163"
-   x="-973.81165"
-   style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   xml:space="preserve"><tspan
-     y="149.79163"
-     x="-973.81165"
-     id="tspan815"
-     sodipodi:role="line">The interesting stuff</tspan></text>
-
-
-</g>
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-963.17975"
+       y="161.79163"
+       id="text817"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-963.17975"
+         y="161.79163">The interesting stuff</tspan></text>
+</g></g>
 
 <path
    style="display:none;fill:none;stroke:#000000;stroke-width:2.79517961;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="m 186.67619,919.28575 h 37.29988"
    id="path2413"
-   inkscape:connector-curvature="0" /><g
-   id="g2738"
-   transform="translate(-161.72864,7.3480133)"><text
-   y="847.44641"
-   x="25.611567"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   id="text18"
-   font-size="11">2002</text>
-
-
-<text
-   y="847.44641"
-   x="68.615036"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
-   id="text22"
-   font-size="11">2007</text>
-
-
-<path
-   d="m 66.002567,843.84689 h -7.78646 v -2.13541 h 7.78646 z"
-   id="path597-7"
-   inkscape:connector-curvature="0"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" /></g><text
+   inkscape:connector-curvature="0" /><text
    font-size="11"
    id="text432"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-width:1.33424556"
@@ -2282,8 +2263,35 @@
    height="17.293158"
    id="rect476-9"
    style="fill:none;stroke:#555555;stroke-width:1.33424556;stroke-miterlimit:10" /></g><g
-   id="g2867-7"
-   transform="matrix(0.77305462,0,0,0.77305462,-562.72615,326.44055)"><rect
+   id="g1948"
+   transform="translate(164,-5.4569295)"
+   sodipodi:insensitive="true"><g
+     transform="translate(-165.15325,7.3479885)"
+     id="g2738"><text
+   font-size="11"
+   id="text18"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="25.611567"
+   y="847.44641">2002</text>
+
+
+<text
+   font-size="11"
+   id="text22"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.67670155px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.33424556"
+   x="68.615036"
+   y="847.44641">2007</text>
+
+
+<path
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path597-7"
+   d="m 66.002567,843.84689 h -7.78646 v -2.13541 h 7.78646 z" /></g><g
+     transform="translate(98.241378,-50.614563)"
+     id="g1924"><g
+       id="g2867-7"
+       transform="matrix(0.77305462,0,0,0.77305462,-663.50916,378.38412)"><rect
    x="552"
    y="691.25"
    stroke-miterlimit="10"
@@ -2302,9 +2310,24 @@
      sodipodi:role="line">E</tspan></text>
 
 
-</g><g
-   id="g2872-2"
-   transform="matrix(0.77305462,0,0,0.77305462,-562.19567,357.21779)"><rect
+</g><flowRoot
+       xml:space="preserve"
+       id="flowRoot3370"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-139.14734,133.86074)"><flowRegion
+         id="flowRegion3372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect3374"
+           width="131.34445"
+           height="45.917152"
+           x="-98.775299"
+           y="794.37897"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3376">Graduate w/ B.S. Computer Science</flowPara></flowRoot></g><g
+     transform="translate(-1.7586229)"
+     id="g1914"><g
+       id="g2872-2"
+       transform="matrix(0.77305462,0,0,0.77305462,-562.97867,357.21779)"><rect
    x="551.31378"
    y="718.63013"
    stroke-miterlimit="10"
@@ -2324,32 +2347,19 @@
 
 
 </g><flowRoot
-   xml:space="preserve"
-   id="flowRoot3370"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-37.19828,82.214954)"><flowRegion
-     id="flowRegion3372"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-       id="rect3374"
-       width="131.34445"
-       height="45.917152"
-       x="-98.775299"
-       y="794.37897"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara3376">Graduate w/ B.S. Computer Science</flowPara></flowRoot><flowRoot
-   xml:space="preserve"
-   id="flowRoot3382"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(66.3823,56.586768)"><flowRegion
-     id="flowRegion3384"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-       id="rect3386"
-       width="115.32684"
-       height="78.827797"
-       x="-203.95764"
-       y="871.79742"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-     id="flowPara3388">Start career as full time Test Engineer, move to C#/SQL/WinForm App dev</flowPara></flowRoot><flowRoot
+       xml:space="preserve"
+       id="flowRoot3382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(66.3823,56.586768)"><flowRegion
+         id="flowRegion3384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect3386"
+           width="115.32684"
+           height="78.827797"
+           x="-203.95764"
+           y="871.79742"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3388">Start career as full time Test Engineer, move to C#/SQL/WinForm App dev</flowPara></flowRoot></g></g><flowRoot
    xml:space="preserve"
    id="flowRoot1372"
    style="fill:black;fill-opacity:1;stroke:none;font-family:'Source Sans Pro';font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Source Sans Pro, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
@@ -2728,4 +2738,16 @@
      x="677.95593"
      y="763.92468">M</tspan></text>
 
-</g></g></svg>
+</g></g><rect
+   style="opacity:1;vector-effect:none;fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1834"
+   width="73.997612"
+   height="58.907188"
+   x="-101.4528"
+   y="729.80646" /><rect
+   style="opacity:1;vector-effect:none;fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect1836"
+   width="99.67025"
+   height="55.713261"
+   x="-111.2688"
+   y="1032" /></svg>
