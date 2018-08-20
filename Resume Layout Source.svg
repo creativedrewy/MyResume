@@ -88,9 +88,9 @@
    inkscape:window-height="762"
    id="namedview571"
    showgrid="false"
-   inkscape:zoom="1.3243671"
-   inkscape:cx="453.23485"
-   inkscape:cy="112.12666"
+   inkscape:zoom="5.2974684"
+   inkscape:cx="288.46153"
+   inkscape:cy="190.73184"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -2527,7 +2527,7 @@
    xml:space="preserve"
    id="flowRoot783-2-6"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(-6.90576,473.38747)"><flowRegion
+   transform="translate(-668.89343,474.04853)"><flowRegion
      id="flowRegion785-3-0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect787-6-3"
@@ -2540,7 +2540,7 @@
    xml:space="preserve"
    id="flowRoot783-4-7-1"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-   transform="translate(110.85969,507.37054)"><flowRegion
+   transform="translate(-550.67489,504.708)"><flowRegion
      id="flowRegion785-4-6-2"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
        id="rect787-8-2-0"
@@ -2571,7 +2571,7 @@
    id="line358-3"
    style="fill:#800080;stroke:#555555;stroke-width:1.01271212;stroke-miterlimit:10;stroke-dasharray:none" /><g
    id="g2877-5-4"
-   transform="matrix(0.82459159,0,0,0.82459159,358.84745,190.13318)"><rect
+   transform="matrix(0.82459159,0,0,0.82459159,-300.71942,190.76195)"><rect
    x="551"
    y="745.51141"
    stroke-miterlimit="10"
@@ -2592,7 +2592,7 @@
 
 </g><g
    id="g2877-5-4-2"
-   transform="matrix(0.82459159,0,0,0.82459159,477.79612,224.59362)"><rect
+   transform="matrix(0.82459159,0,0,0.82459159,-182.68522,221.56541)"><rect
    x="551"
    y="745.51141"
    stroke-miterlimit="10"
@@ -2710,11 +2710,11 @@
 <line
    stroke-miterlimit="10"
    x1="290.06046"
-   y1="804.95428"
+   y1="835.75775"
    x2="290.06046"
    y2="898.0434"
    id="line358-3-76"
-   style="fill:#800080;stroke:#555555;stroke-width:1.01271212;stroke-miterlimit:10;stroke-dasharray:none" /><line
+   style="fill:#800080;stroke:#555555;stroke-width:0.82838142;stroke-miterlimit:10;stroke-dasharray:none" /><line
    stroke-miterlimit="10"
    x1="408.18683"
    y1="804.95428"
