@@ -36,34 +36,55 @@ http://creativedrewy.com/highlight/5 [Javascript an honest preview]
 
 ### More
 
-- Want to know more? Lots more detail on my LinkedIn profile referenced above.
+For lots more work info see my LinkedIn profile 
 
 The Interesting Stuff
 =====================
 
 ### 2017
 
+New features, refactor tech-debt, kotlin-convert, write unit & UI tests on Yammer Android
+
 ### 2016
+
+Successful exit w/ Vemory acquired by GoPro, join the GoPro Android dev efforts 
 
 ### 2015
 
+Hired by startup Vemory to build advanced Android video editor, start using Kotlin professionally
+
 ### 2014
-Mentor fellow Android developers
+
+Release my Android Wear app - WeaRSS.
+Included in I/O 2015 keynote!
 
 ### 2012
 
+Implement Virgin Mobile Android app to be installed on every new VM device to be released
+
+### 2011
+
+Lead the dev effort for a cool Android app for Nike, only to have it canned before release
+
 ### 2010
+
+First large-scale Android app. This is where it all begins.
 
 ### 2009
 
+Start leading development projects & teams
+
 ### 2008
+
+Begin professional Flash/Actionscript 3 interactive development
 
 The Boring Stuff
 ================
 
 ### 2002 - 2007
 
-
+Graduate w/ B.S. Computer Science
+Start career as full time Test Engineer, move to C#/SQL/WinForm App dev
 
 # Programming Languages:
 
