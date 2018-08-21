@@ -1,14 +1,16 @@
 # The Details
 
-### GoPro (March 2016 - December 2016)
-- Implemented a media-oriented Android library for utilization within multiple GoPro Android apps. It had an intuitive interface that made extending for new use cases really simple.
-- Easily adapted my video compositor system (see Vemory section) to be utilized with a yet-to-be-released GoPro technology. Win!
-- Joined the development efforts of the flagship GoPro app, fixing bugs prior to a crucial release.
+### Vemory/GoPro (December 2015 - December 2016)
 
-### Vemory (December 2015 - March 2016)
+#### Vemory:
 - Advanced work with Android media APIs: implemented a slick NLE-inspired, timeline-based "video compositor" system. Involved OpenGL rendering with realtime shader effects.
-- Wrote a Fluent API library encapsulating the (complex and wierd) FFMpeg command line interface, enabling it to be easily utilized within an Android app.
+- Wrote a Fluent API library encapsulating the (complex and weird) FFMpeg command line interface, enabling it to be easily utilized within an Android app.
 - We were a startup that actually got acquired. Win!
+
+#### GoPro (Post-Acquisition)
+- Implemented a media-oriented Android library for utilization within multiple GoPro Android apps. It had an intuitive interface/api that made extending for new use cases really simple.
+- Easily adapted my video compositor system to be utilized with a yet-to-be-released GoPro technology. Win!
+- Joined the development efforts of the flagship GoPro app, fixing bugs prior to a crucial release.
 
 ### Novu (April 2015 - November 2015)
 - Ported Novu's existing iOS app to Android and successfully released it to the Play store.
