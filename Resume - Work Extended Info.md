@@ -1,5 +1,13 @@
 # The Details
 
+### Microsoft Yammer Android (May 2017 - Present)
+- Convert! I joined right when Google started supporting Kotlin, and I converted a lot of code to the language. All my new code was written in Kotlin, too.
+- I collaborated with the other senior developers to come up with our Kotlin coding standards.
+- Refactor! I refactored as much technical debt out of the app as I could. There were plenty of areas that needed some love.
+ - Test! Write unit and UI integration tests with JUnit, Spek, Espresso and Mockito.
+ - Helped lead adoption of Cucumber/Gherkin to capture acceptance scenarios and have them tied to automated testing. 
+ - Features! Oh yeah, I led the development efforts on a couple new features in the app as well.
+
 ### Vemory/GoPro (December 2015 - December 2016)
 
 #### Vemory:
