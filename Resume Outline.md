@@ -1,20 +1,20 @@
 # Contact Information:
 
 - Andrew Watson
-- {creative:drewy}
+- Expert Android Developer
 - creativedrewy@gmail.com
 - 952-250-7380
 
 # Websites:
 
-- http://creativedrewy.com/
+- https://beacons.ai/creativedrewy
 - https://github.com/creativedrewy
 - http://twitter.com/creativedrewy
 - https://www.linkedin.com/in/creativedrewy
 
 # What You Need to Know:
 
-- I've been working with the Android platform since 2010. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
+- I've been working with the Android platform for 10 years. I've successfully developed and led multiple consumer-facing, high-rated Play Store apps.
 - I'm super passionate about excellent application architecture, maintainability, and code quality. I do it for my own sanity; I have the 
   most fun when I'm working in a quality code base.
 - I've been a lead developer for years. I've successfully led countless projects involving multiple and varied programming languages, frameworks, and platforms. My team size was usually 1 to 8 developers.
@@ -22,24 +22,21 @@
 
 # Highlights:
 
-- My Android Wear app - WeaRSS - was featured as "Hand-Picked for Wear" in the Play Store. At the time I got some other good internet coverage too:         
-http://creativedrewy.com/highlight/1 [http://creativedrewy.blogspot.com/2015/02/wearss-internet-coverage.html]
-- A couple apps for which I was lead developer:
-http://creativedrewy.com/highlight/2 [https://play.google.com/store/apps/details?id=com.trunkclub.member]<br/>
-http://creativedrewy.com/highlight/3 [https://www.youtube.com/watch?v=icarsdl0eug]
-- My somewhat-contrived Android app with all the latest toys:
-http://creativedrewy.com/highlight/4 [https://github.com/creativedrewy/AmIAlive]
-- I've done enough Javascript development over the years that I felt compelled to make this video:
-http://creativedrewy.com/highlight/5 [https://www.youtube.com/watch?v=JEpY9C49sqU]
+- My work on a MotionLayout-based feature was featured on stage by Google at Android Dev Summit:
+https://twitter.com/creativedrewy/status/1187152308276097024
+- Another app I created - WeaRSS - was featured as "Hand-Picked for Wear" in the Play Store and included on stage at I/O 2015:
+http://creativedrewy.blogspot.com/2015/02/wearss-internet-coverage.html
+- A sample app made for my own use that uses Android's latest API toys:
+https://github.com/creativedrewy/ProtectoCrypto
+- I love creating developer-oriented video content:
+https://www.tiktok.com/@creativedrewy
+https://www.youtube.com/watch?v=JEpY9C49sqU
 
 # Development Experience Timeline:
 
-### More
+### 2019
 
-For lots more work info see my LinkedIn profile 
-
-The Interesting Stuff
-=====================
+High-visibility MotionLayout feature work, lead & implement advanced OpenGl 2D renderer
 
 ### 2017
 
@@ -78,13 +75,9 @@ Start leading development projects & teams
 
 Begin professional Flash/Actionscript 3 interactive development
 
-The Boring Stuff
-================
+----------------
 
-### 2002 - 2007
-
-Graduate w/ B.S. Computer Science
-Start career as full time Test Engineer, move to C#/SQL/WinForm App dev
+For education, prior work history, and more in-depth descriptions, see my LinkedIn profile.
 
 # Programming Languages:
 
@@ -96,17 +89,17 @@ Swift - 2/5
 
 #My Android Stack:
 
-Min SDK 21
+Min SDK 24
 Kotlin
-Kotlin Extensions
+ktx Extensions
 MVVM
-Arch Components
-ConstraintLayout
-Dagger 2
-RxJava
-Retrofit
-Spek
-Cucumber
+Jetpack Components
+MotionLayout
+Coroutines
+LiveData
+Flow/Channels
+OkHttp
+Spek 2
 Espresso
 
 # Other Dev I've Done:
@@ -118,4 +111,4 @@ Express
 HTML/CSS
 Node.js
 Xamarin Mobile
-Shader integration
+OpenGL/GLSL
